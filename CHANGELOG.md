@@ -2,6 +2,8 @@
 
 This file contains selected notable changes for Gordon's Sun Clock Web. It is not intended to be a full commit log.
 
+*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzrichtlinie)](https://axmann.eu/gscwpp.php?lg=en)*
+
 ---
 
 ## [0.9.0.3] - 2026-06-26 (First beta)
