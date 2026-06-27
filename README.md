@@ -6,4 +6,5 @@ This repository contains the web implementation of the natural-time sun clock, i
 
 The web version uses JavaScript astronomy calculations and does **not** have the full Skyfield precision of the Android/Python version. Some app features are still missing or incomplete, including weather, time control, and several info pages.
 
+Link to Gordon's Sun Clock Web: https://axmann.eu/gsc
 Main Android repository: https://github.com/gaxmann/gordonssunclock
