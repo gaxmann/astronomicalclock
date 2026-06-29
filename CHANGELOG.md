@@ -17,7 +17,7 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ### Added
 
-- Dial and pages are now like in the apk
+- Dial and pages are now like in the apk. Text are slightly modified, but not everything yet
 - Some things are missing, as: Time control, Design selection, Weather, Alarms
 
 ---
