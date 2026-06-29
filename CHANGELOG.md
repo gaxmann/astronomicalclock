@@ -6,6 +6,13 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
+## [0.9.0.50] - 2026-06-29 
+
+### Added
+
+- Restructured. File size cut in half: more system fonts used, woff2 compression
+- Css updated
+
 ## [0.9.0.3] - 2026-06-27 (First beta)
 
 ### Added
