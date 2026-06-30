@@ -1,6 +1,6 @@
 # Changelog
 
-This file contains selected notable changes for [Astronomical Clock](https://AstronomicalClock.eu/). It is not intended to be a full commit log. – This browser/PWA version of Gordon's Sun Clock which isn't as precise as the Skyfield Android version.
+This file contains selected notable changes for [Astronomical Clock](https://AstronomicalClock.eu/). It is not intended to be a full commit log. – This browser/PWA edition is the latest addition to the project family. It brings the Sun Clock to the web, though it does not share the exact same high precision as the Skyfield-powered Android version.
 
 *Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzrichtlinie)](https://axmann.eu/gscwpp.php?lg=en)*
 
@@ -12,7 +12,7 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
-## [1.0.0.5] - 2026-06-30
+## [1.0.0.5] - 2026-06-30 (First published)
 
 ### Added
 
@@ -26,7 +26,7 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 - Restructured. File size cut in half: more system fonts used, woff2 compression
 - Css updated
 
-## [0.9.0.3] - 2026-06-27 (First beta)
+## [0.9.0.3] - 2026-06-27 (Beta)
 
 ### Added
 
@@ -37,9 +37,9 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ## Project history
 
-There are several predecessors to this app. The most recent on is the Android version of this Sun Clock, which is the still under active development and runs with a much higher accuracy. Have a look at the apk project page: https://github.com/gaxmann/gordonssunclock
+This web version is the youngest sibling in the project. Both the original Raspberry Pi version and the high-accuracy Android app (APK) are still actively maintained and running alongside this new web edition. You can check out the APK project page here: https://github.com/gaxmann/gordonssunclock
 
-For a permanent wall clock maybe the best option is still to buy a used Android tablet together with a 3 meter long USB cable and a timer that switches the charger on for about 2 hours in the morning and in the evening and hang it on the wall. I run this setup at home: 
+For a permanent wall clock, maybe the best option is still to buy a used Android tablet together with a 3 meter long USB cable and a timer that switches the charger on for about 2 hours in the morning and in the evening and hang it on the wall. I run this setup at home:
 
 ---
 
