@@ -12,6 +12,12 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
+## [1.0.1.12] - 2026-07-02 (Weather added)
+
+### Added
+
+- Weather functionality added
+
 ## [1.0.0.5] - 2026-06-30 (First published)
 
 ### Added
