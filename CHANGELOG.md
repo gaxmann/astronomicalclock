@@ -18,6 +18,9 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 - Time control added to move the clock forward and backward in time
 - Code optimised
+- /Info/ pages added
+
+# Fixed
 - Images didn't have alpha
 
 ## [0.9.0.50] - 2026-06-29
