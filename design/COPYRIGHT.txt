@@ -1,0 +1,272 @@
+================================================================================
+THIRD PARTY LICENSES AND ATTRIBUTIONS
+================================================================================
+
+This document contains all attributions and license information for third-party
+assets used in this project.
+
+
+================================================================================
+FONTS
+================================================================================
+
+Font: Fira Sans Regular
+--------------------
+Copyright: (c) 2012-2015, The Mozilla Foundation and Telefonica S.A.
+Source: Google Fonts (https://fonts.google.com)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): FiraSans-Regular.ttf
+Notes: Free to use, modify, and distribute within applications
+
+
+Font: Noto Sans SC Regular
+--------------------
+Copyright: Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Names 'Noto' and 'Adobe'
+Source: Google Fonts (https://fonts.google.com)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): NotoSansSC-Regular.ttf
+Notes: Simplified Chinese support
+
+
+Font: Noto Sans Devanagari Regular
+--------------------
+Copyright: Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Names 'Noto' and 'Adobe'
+Source: Google Fonts (https://fonts.google.com)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): NotoSansDevanagari-Regular.ttf
+Notes: Hindi / Devanagari script support
+
+
+Font: DejaVu Sans
+--------------------
+Copyright: (c) 2003-2008 DejaVu fonts team
+Source: DejaVu Project (https://dejavu-fonts.github.io/)
+License: Public Domain
+License URL: https://dejavu-fonts.github.io/
+File(s): DejaVuSans.ttf
+Notes: Derivative of Bitstream Vera Fonts
+
+
+Font: 04B_03
+--------------------
+Copyright: Copyright 1998-2003 Yuji Oshimoto
+Source: dafont.com (https://www.dafont.com/04b-03.font)
+License: Freeware – free to use as you like
+License URL: https://www.dafont.com/04b-03.font
+File(s): 04B_03__.TTF
+Notes: Pixel/bitmap style font, very small sizes (8px). Freeware for personal and commercial use.
+
+
+================================================================================
+IMAGES & GRAPHICS
+================================================================================
+
+Images of Celestial Bodies
+--------------------
+Title: Various planetary and solar images
+Author: NASA, ESA
+Source: NASA / SOHO (Solar and Heliospheric Observatory), NASA / JPL-Caltech, ESA / Hubble Space Telescope
+License: Public Domain
+Notes: Public domain images from government and international space agencies
+
+
+Planetary Symbols
+--------------------
+Title: Planetary symbols
+Author: Gordon's Sun Clock
+Source: AI-generated / Historical astronomical symbols
+License: Public Domain
+File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
+Notes: Resized
+
+
+Weather Icons (modified font)
+--------------------
+Title: Weather icon font (based on Weather Icons by Erik Flowers)
+Author: Erik Flowers (original), Gordon Axmann (modifications)
+Source: https://github.com/erikflowers/weather-icons (original)
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): wicons.ttf
+Notes: Based on Weather Icons by Erik Flowers. Three custom weather symbols (uncertain, still, cactus) added by Gordon Axmann. Font scaled to 80% of original size for better UI integration. Font renamed to wicons.ttf per OFL license requirements.
+Copyright: (c) 2013–2014 Erik Flowers (original icons)
+
+
+Weather Icons (PNG)
+--------------------
+Title: Weather Icons (converted to PNG)
+Author: Erik Flowers
+Source: https://github.com/erikflowers/weather-icons
+License: SIL Open Font License (OFL) 1.1
+License URL: https://openfontlicense.org
+File(s): Various weather icon PNG files
+Notes: SVG icons from Weather Icons project, converted to PNG with light/dark variants
+Copyright: (c) 2013–2014 Erik Flowers
+
+
+Custom Weather Icons
+--------------------
+Title: Custom weather symbols (uncertain, still, cactus)
+Author: Gordon Axmann
+Source: Original work
+License: Copyright © - All rights reserved
+File(s): uncertain.png, still2.png, kaktus2.png
+Notes: Created specifically for this application. Also integrated into wicons.ttf
+
+
+Processing Animation
+--------------------
+Title: Process, Factory, Circle GIF
+Source: Pixabay (Ha_Nguyen_Monslide365)
+License: Pixabay Content License (free for use, no attribution required)
+File(s): processing.gif
+Notes: Edited using https://ezgif.com/effects
+
+
+Own Artwork
+--------------------
+Title: Watercolor painting (sf.jpg)
+Author: Gordon Axmann
+Source: Original artwork - hand-painted watercolor, scanned
+License: Copyright © - All rights reserved
+File(s): sf.jpg, icon.png
+Notes: Original own work, no redistribution without permission
+
+
+Code (baby-lights)
+--------------------
+Title: baby-lights (Code snippet ~150 lines, slightly modified)
+Author: Filipe March
+Source: https://github.com/FilipeMarch/baby-lights
+License: MIT License
+License URL: https://opensource.org/licenses/MIT
+Notes: Original code adapted and modified for this project
+Copyright: Filipe March
+
+
+Ephemeris Data (de440s.bsp)
+--------------------
+Title: DE440S Planetary Ephemeris (excerpt)
+Author: Jet Propulsion Laboratory (JPL), NASA
+Source: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/
+License: Public Domain
+Notes: JPL ephemeris data for planetary positions, subset for years 2024-2040
+File(s): de_excerpt.bsp
+
+
+================================================================================
+PYTHON LIBRARIES
+================================================================================
+
+Library: Kivy
+License: MIT License
+Source: https://github.com/kivy/kivy
+Notes: GUI framework
+
+Library: Skyfield
+License: MIT License
+Source: https://github.com/skyfieldhq/python-skyfield
+Notes: Astronomical calculations
+
+Library: NumPy
+License: BSD 3-Clause License
+Source: https://github.com/numpy/numpy
+Notes: Numerical computing
+
+Library: PyTZ
+License: MIT License
+Source: https://github.com/stub42/pytz
+Notes: Timezone database
+
+Library: Pillow
+License: HPND License (Historical Permission Notice and Disclaimer)
+Source: https://github.com/python-pillow/Pillow
+Notes: Image processing
+
+Library: sgp4
+License: BSD License
+Source: https://github.com/brandon-rhodes/python-sgp4
+Notes: Satellite orbit calculations
+
+Library: timezonefinder
+License: MIT License
+Source: https://github.com/jannikmi/timezonefinder
+Notes: Timezone detection from coordinates
+
+
+================================================================================
+WEATHER DATA & APIS
+================================================================================
+
+Open-Meteo API
+--------------------
+Service: Weather forecast data (DWD ICON / Global)
+Provider: Open-Meteo.com
+Source: https://open-meteo.com
+License: CC BY 4.0 (Attribution required)
+License URL: https://creativecommons.org/licenses/by/4.0/
+API URL: https://api.open-meteo.com/v1/dwd-icon (ICON-D2 area)
+          https://api.open-meteo.com/v1/forecast (global)
+Notes: Usage subject to Open-Meteo Terms. Attribution required: credit provider and include a link to Open-Meteo where weather data is presented (or via an in-app “About / Licences” page that is accessible from the weather UI).
+Data Attribution: Weather data by Open-Meteo.com (CC BY 4.0)
+
+
+MET Norway Locationforecast API
+--------------------
+Service: Weather forecast data
+Provider: Norwegian Meteorological Institute (MET Norway)
+Source: https://api.met.no
+License: CC BY 4.0 (Attribution required)
+License URL: https://creativecommons.org/licenses/by/4.0/
+API URL: https://api.met.no/weatherapi/locationforecast/2.0/compact
+Notes: No API key required, User-Agent header required. Must not appear to be made by Yr/NRK/MET; do not use “Yr” in the service name or use the Yr logo/branding.
+Terms: https://api.met.no/doc/TermsOfService
+Data Attribution: Weather data from MET Norway (CC BY 4.0)
+
+
+OpenWeatherMap API
+--------------------
+Service: Weather forecast data
+Provider: OpenWeather Ltd.
+Source: https://openweathermap.org/api
+License: API usage subject to OpenWeatherMap Terms of Service
+API URL: https://api.openweathermap.org/data/3.0/onecall
+Notes: Requires API key, free tier: 1000 calls/day. This service is currently not selectable via the user interface, but code support exists and may be enabled via configuration
+Terms: https://openweathermap.org/terms
+Data Attribution: Weather data provided by OpenWeatherMap
+
+
+================================================================================
+SUMMARY OF LICENSES USED
+================================================================================
+
+- SIL Open Font License (OFL) 1.1: https://openfontlicense.org
+  Used for: Fonts (Fira Sans, Noto Sans SC) and Weather Icons
+  Key requirement: Include this license text and copyright notice
+
+- Public Domain
+  Used for: DejaVu Sans font, NASA/ESA images, JPL ephemeris data
+  Key requirement: None required, but attribution appreciated
+
+- Freeware (free to use as you like)
+  Used for: 04B_03 font
+  Key requirement: None
+
+
+================================================================================
+GENERAL NOTES
+================================================================================
+
+All third-party assets included in this application comply with their
+respective licenses. This file serves as the definitive attribution record.
+
+For questions about specific assets, refer to the URLs listed above or
+contact the original copyright holders.
+
+Last updated: 2026-02-25 (or see date of file)
+
+
+================================================================================
