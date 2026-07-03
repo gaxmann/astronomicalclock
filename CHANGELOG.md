@@ -12,6 +12,12 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
+## [1.0.1.42] - 2026-07-03 (Autotranslations added)
+
+### Added
+
+- Autotranslation languages added
+
 ## [1.0.1.15] - 2026-07-03 (Weather added)
 
 ### Added
