@@ -32,7 +32,7 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 - Code optimised
 - /Info/ pages added
 
-# Fixed
+### Fixed
 - Images didn't have alpha
 
 ## [0.9.0.50] - 2026-06-29
