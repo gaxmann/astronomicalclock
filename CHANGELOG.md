@@ -6,9 +6,9 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
-## Known issues
-
-- Android: The Android system back button (navigation bar) is currently not supported correctly in the PWA and may leave a black screen
+> ## Known issues
+> 
+> - Android: The Android system back button (navigation bar) is currently not supported correctly in the PWA and may leave a black screen
 
 ---
 
