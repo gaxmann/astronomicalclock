@@ -12,25 +12,22 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
-## [1.0.1.42] - 2026-07-03 (Autotranslations added)
+## [1.0.1.48] - 2026-07-03 (Autotranslations added)
 
 ### Added
-
 - Autotranslation languages added
 
 ## [1.0.1.15] - 2026-07-03 (Weather added)
 
 ### Added
-
 - Weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
 
 ## [1.0.0.5] - 2026-06-30 (First published)
 
 ### Added
-
 - Time control added to move the clock forward and backward in time
 - Code optimised
-- /Info/ pages added
+- /info/ pages added
 
 ### Fixed
 - Images didn't have alpha
@@ -38,14 +35,12 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 ## [0.9.0.50] - 2026-06-29
 
 ### Added
-
 - Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
 - CSS updated
 
 ## [0.9.0.3] - 2026-06-27 (Beta)
 
 ### Added
-
 - Dial and pages now match the APK. Some text has been updated already
 - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
 
