@@ -30,19 +30,19 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 - /info/ pages added
 
 ### Fixed
-- Images didn't have alpha
+- Images didn't have alpha any more
 
-## [0.9.0.50] - 2026-06-29
-
-### Added
-- Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
-- CSS updated
-
-## [0.9.0.3] - 2026-06-27 (Beta)
-
-### Added
-- Dial and pages now match the APK. Some text has been updated already
-- Some features are still missing, including: Time control, Design selection, Weather, and Alarms
+> ## [0.9.0.50] - 2026-06-29
+> 
+> ### Added
+> - Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
+> - CSS updated
+> 
+> ## [0.9.0.3] - 2026-06-27 (Beta)
+> 
+> ### Added
+> - Dial and pages now match the APK. Some text has been updated already
+> - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
 
 ---
 
