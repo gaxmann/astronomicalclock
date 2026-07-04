@@ -12,6 +12,12 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 
 ---
 
+## [1.0.1.62] - 2026-07-04 (Compacted)
+
+### Changed
+- Code compacted from 480kB to 220kB
+- Images compacted from 1MB to 130kB
+
 ## [1.0.1.48] - 2026-07-03 (Autotranslations added)
 
 ### Added
