@@ -42,9 +42,9 @@ This file contains selected notable changes for [Astronomical Clock](https://Ast
 > 
 > ### Added
 > - Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
-> - CSS updated
+> - CSS restructured
 > 
-> ## [0.9.0.3] - 2026-06-27 (Beta)
+> ## [0.9.0.3] - 2026-06-27
 > 
 > ### Added
 > - Dial and pages now match the APK. Some text has been updated already
