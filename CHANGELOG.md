@@ -1,8 +1,8 @@
 # Changelog
 
-This file contains selected notable changes for [Astronomical Clock](https://AstronomicalClock.eu/). It is not intended to be a full commit log. – This browser/PWA edition is the latest addition to the project family. It brings the Sun Clock to the web, though it does not share the exact same high precision as the Skyfield-powered Android version.
+Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
 
-*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzrichtlinie)](https://axmann.eu/gscwpp.php?lg=en)*
+*This browser/PWA edition is the latest addition to the project family. It brings Sun Clock to the web. Though it does not share the exact same high precision as the Skyfield-powered Android version, it is a fast and lightweight version that is good enough for normal usecases.*
 
 ---
 
