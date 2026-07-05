@@ -16,38 +16,8 @@ Copyright: (c) 2012-2015, The Mozilla Foundation and Telefonica S.A.
 Source: Google Fonts (https://fonts.google.com)
 License: SIL Open Font License (OFL) 1.1
 License URL: https://openfontlicense.org
-File(s): FiraSans-Regular.ttf
+File(s): FiraSans-Regular.woff2
 Notes: Free to use, modify, and distribute within applications
-
-
-Font: Noto Sans SC Regular
---------------------
-Copyright: Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Names 'Noto' and 'Adobe'
-Source: Google Fonts (https://fonts.google.com)
-License: SIL Open Font License (OFL) 1.1
-License URL: https://openfontlicense.org
-File(s): NotoSansSC-Regular.ttf
-Notes: Simplified Chinese support
-
-
-Font: Noto Sans Devanagari Regular
---------------------
-Copyright: Copyright 2014-2023 Adobe (http://www.adobe.com/), with Reserved Font Names 'Noto' and 'Adobe'
-Source: Google Fonts (https://fonts.google.com)
-License: SIL Open Font License (OFL) 1.1
-License URL: https://openfontlicense.org
-File(s): NotoSansDevanagari-Regular.ttf
-Notes: Hindi / Devanagari script support
-
-
-Font: DejaVu Sans
---------------------
-Copyright: (c) 2003-2008 DejaVu fonts team
-Source: DejaVu Project (https://dejavu-fonts.github.io/)
-License: Public Domain
-License URL: https://dejavu-fonts.github.io/
-File(s): DejaVuSans.ttf
-Notes: Derivative of Bitstream Vera Fonts
 
 
 Font: 04B_03
@@ -56,8 +26,9 @@ Copyright: Copyright 1998-2003 Yuji Oshimoto
 Source: dafont.com (https://www.dafont.com/04b-03.font)
 License: Freeware – free to use as you like
 License URL: https://www.dafont.com/04b-03.font
-File(s): 04B_03__.TTF
-Notes: Pixel/bitmap style font, very small sizes (8px). Freeware for personal and commercial use.
+File(s): 04B_03__.woff2
+Notes: Pixel/bitmap style font, very small sizes (8px). Freeware for personal 
+and commercial use.
 
 
 ================================================================================
@@ -68,7 +39,8 @@ Images of Celestial Bodies
 --------------------
 Title: Various planetary and solar images
 Author: NASA, ESA
-Source: NASA / SOHO (Solar and Heliospheric Observatory), NASA / JPL-Caltech, ESA / Hubble Space Telescope
+Source: NASA / SOHO (Solar and Heliospheric Observatory), NASA / JPL-Caltech, 
+ESA / Hubble Space Telescope
 License: Public Domain
 Notes: Public domain images from government and international space agencies
 
@@ -79,7 +51,8 @@ Title: Planetary symbols
 Author: Gordon's Sun Clock
 Source: AI-generated / Historical astronomical symbols
 License: Public Domain
-File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, Venus_symbol.png, Merkur_symbol.png
+File(s): Jupiter_symbol.png, Mars_symbol.png, Saturn_symbol.png, 
+Venus_symbol.png, Merkur_symbol.png
 Notes: Resized
 
 
@@ -90,8 +63,11 @@ Author: Erik Flowers (original), Gordon Axmann (modifications)
 Source: https://github.com/erikflowers/weather-icons (original)
 License: SIL Open Font License (OFL) 1.1
 License URL: https://openfontlicense.org
-File(s): wicons.ttf
-Notes: Based on Weather Icons by Erik Flowers. Three custom weather symbols (uncertain, still, cactus) added by Gordon Axmann. Font scaled to 80% of original size for better UI integration. Font renamed to wicons.ttf per OFL license requirements.
+File(s): wicons.woff2
+Notes: Based on Weather Icons by Erik Flowers. Three custom weather symbols 
+(uncertain, still, cactus) added by Gordon Axmann. Font scaled to 80% of 
+original size for better UI integration. Font renamed to wicons.woff2 per OFL 
+license requirements.
 Copyright: (c) 2013–2014 Erik Flowers (original icons)
 
 
@@ -103,7 +79,7 @@ Source: https://github.com/erikflowers/weather-icons
 License: SIL Open Font License (OFL) 1.1
 License URL: https://openfontlicense.org
 File(s): Various weather icon PNG files
-Notes: SVG icons from Weather Icons project, converted to PNG with light/dark variants
+Notes: SVG icons from Weather Icons project
 Copyright: (c) 2013–2014 Erik Flowers
 
 
@@ -113,17 +89,9 @@ Title: Custom weather symbols (uncertain, still, cactus)
 Author: Gordon Axmann
 Source: Original work
 License: Copyright © - All rights reserved
-File(s): uncertain.png, still2.png, kaktus2.png
-Notes: Created specifically for this application. Also integrated into wicons.ttf
-
-
-Processing Animation
---------------------
-Title: Process, Factory, Circle GIF
-Source: Pixabay (Ha_Nguyen_Monslide365)
-License: Pixabay Content License (free for use, no attribution required)
-File(s): processing.gif
-Notes: Edited using https://ezgif.com/effects
+File(s): uncertain.png, still3.png, kaktus2.png
+Notes: Created specifically for this application. Also integrated into 
+wicons.woff2
 
 
 Own Artwork
@@ -136,65 +104,46 @@ File(s): sf.jpg, icon.png
 Notes: Original own work, no redistribution without permission
 
 
-Code (baby-lights)
---------------------
-Title: baby-lights (Code snippet ~150 lines, slightly modified)
-Author: Filipe March
-Source: https://github.com/FilipeMarch/baby-lights
-License: MIT License
-License URL: https://opensource.org/licenses/MIT
-Notes: Original code adapted and modified for this project
-Copyright: Filipe March
-
-
-Ephemeris Data (de440s.bsp)
---------------------
-Title: DE440S Planetary Ephemeris (excerpt)
-Author: Jet Propulsion Laboratory (JPL), NASA
-Source: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/
-License: Public Domain
-Notes: JPL ephemeris data for planetary positions, subset for years 2024-2040
-File(s): de_excerpt.bsp
-
-
 ================================================================================
-PYTHON LIBRARIES
+WEB VENDOR LIBRARIES
 ================================================================================
 
-Library: Kivy
+Library: Astronomy Engine
+-------------------------
+Author: Don Cross / Cosine Kitty
+Source: https://github.com/cosinekitty/astronomy
 License: MIT License
-Source: https://github.com/kivy/kivy
-Notes: GUI framework
+File(s): vendor/astronomy.browser.min.js
+Notes: Browser astronomy calculation library loaded before the app bundle.
+Copyright: Copyright (c) 2019-2025 Don Cross <cosinekitty@gmail.com>
 
-Library: Skyfield
-License: MIT License
-Source: https://github.com/skyfieldhq/python-skyfield
-Notes: Astronomical calculations
 
-Library: NumPy
-License: BSD 3-Clause License
-Source: https://github.com/numpy/numpy
-Notes: Numerical computing
+Library: tz-lookup
+------------------
+Source: https://github.com/photostructure/tz-lookup
+Version: 11.5.0
+License: CC0 1.0 Universal
+File(s): vendor/tz-lookup.js
+         vendor/tz-lookup.LICENSE.md
+Notes: Local timezone lookup from latitude/longitude.
 
-Library: PyTZ
-License: MIT License
-Source: https://github.com/stub42/pytz
-Notes: Timezone database
 
-Library: Pillow
-License: HPND License (Historical Permission Notice and Disclaimer)
-Source: https://github.com/python-pillow/Pillow
-Notes: Image processing
-
-Library: sgp4
-License: BSD License
-Source: https://github.com/brandon-rhodes/python-sgp4
-Notes: Satellite orbit calculations
-
-Library: timezonefinder
-License: MIT License
-Source: https://github.com/jannikmi/timezonefinder
-Notes: Timezone detection from coordinates
+Library: Leaflet
+----------------
+Author: Volodymyr Agafonkin and contributors
+Source: https://leafletjs.com
+Version: 1.9.4
+License: BSD 2-Clause License
+File(s): vendor/leaflet/leaflet.js
+         vendor/leaflet/leaflet.css
+         vendor/leaflet/images/marker-icon-2x.png
+         vendor/leaflet/images/marker-icon.png
+         vendor/leaflet/images/marker-shadow.png
+         vendor/leaflet/LICENSE
+         vendor/leaflet/README.md
+Notes: Interactive map picker library, loaded only when the map picker is used.
+Copyright: Copyright (c) 2010-2023, Volodymyr Agafonkin; Copyright (c) 2010-2011,
+           CloudMade.
 
 
 ================================================================================
@@ -210,7 +159,9 @@ License: CC BY 4.0 (Attribution required)
 License URL: https://creativecommons.org/licenses/by/4.0/
 API URL: https://api.open-meteo.com/v1/dwd-icon (ICON-D2 area)
           https://api.open-meteo.com/v1/forecast (global)
-Notes: Usage subject to Open-Meteo Terms. Attribution required: credit provider and include a link to Open-Meteo where weather data is presented (or via an in-app “About / Licences” page that is accessible from the weather UI).
+Notes: Usage subject to Open-Meteo Terms. Attribution required: credit provider 
+and include a link to Open-Meteo where weather data is presented (or via an in-app 
+“About / Licences” page that is accessible from the weather UI).
 Data Attribution: Weather data by Open-Meteo.com (CC BY 4.0)
 
 
@@ -222,7 +173,8 @@ Source: https://api.met.no
 License: CC BY 4.0 (Attribution required)
 License URL: https://creativecommons.org/licenses/by/4.0/
 API URL: https://api.met.no/weatherapi/locationforecast/2.0/compact
-Notes: No API key required, User-Agent header required. Must not appear to be made by Yr/NRK/MET; do not use “Yr” in the service name or use the Yr logo/branding.
+Notes: No API key required, User-Agent header required. Must not appear to be made 
+by Yr/NRK/MET; do not use “Yr” in the service name or use the Yr logo/branding.
 Terms: https://api.met.no/doc/TermsOfService
 Data Attribution: Weather data from MET Norway (CC BY 4.0)
 
@@ -234,7 +186,9 @@ Provider: OpenWeather Ltd.
 Source: https://openweathermap.org/api
 License: API usage subject to OpenWeatherMap Terms of Service
 API URL: https://api.openweathermap.org/data/3.0/onecall
-Notes: Requires API key, free tier: 1000 calls/day. This service is currently not selectable via the user interface, but code support exists and may be enabled via configuration
+Notes: Requires API key, free tier: 1000 calls/day. This service is currently not 
+selectable via the user interface, but code support exists and may be enabled via 
+configuration
 Terms: https://openweathermap.org/terms
 Data Attribution: Weather data provided by OpenWeatherMap
 
@@ -243,17 +197,27 @@ Data Attribution: Weather data provided by OpenWeatherMap
 SUMMARY OF LICENSES USED
 ================================================================================
 
-- SIL Open Font License (OFL) 1.1: https://openfontlicense.org
-  Used for: Fonts (Fira Sans, Noto Sans SC) and Weather Icons
-  Key requirement: Include this license text and copyright notice
+- SIL Open Font License (OFL) 1.1
+  Used for: Fira Sans Regular and Weather Icons derivative assets.
+  URL: https://openfontlicense.org
 
-- Public Domain
-  Used for: DejaVu Sans font, NASA/ESA images, JPL ephemeris data
-  Key requirement: None required, but attribution appreciated
+- MIT License
+  Used for: Astronomy Engine.
 
-- Freeware (free to use as you like)
-  Used for: 04B_03 font
-  Key requirement: None
+- CC0 1.0 Universal
+  Used for: tz-lookup.
+
+- BSD 2-Clause License
+  Used for: Leaflet.
+
+- Freeware
+  Used for: 04B_03 font.
+
+- Public Domain / public-use source imagery
+  Used for: selected NASA/ESA astronomy imagery where applicable.
+
+- Own work / all rights reserved
+  Used for: application icon and custom weather symbols.
 
 
 ================================================================================
@@ -266,7 +230,7 @@ respective licenses. This file serves as the definitive attribution record.
 For questions about specific assets, refer to the URLs listed above or
 contact the original copyright holders.
 
-Last updated: 2026-02-25 (or see date of file)
+Last updated: 2026-07-05 (or see date of file)
 
 
 ================================================================================
