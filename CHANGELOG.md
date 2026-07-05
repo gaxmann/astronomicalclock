@@ -8,9 +8,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 > ## Known issues
 > 
-> - Android: The Android system back button (navigation bar) is currently not supported correctly in the PWA and may leave a black screen
+> - The mobile back button is currently not supported correctly in the PWA and may leave a black screen
 
 ---
+
+## [1.0.1.71] - 2026-07-05
+
+### Fixed
+- Small bug fixes
 
 ## [1.0.1.62] - 2026-07-04 (Compacted files)
 
@@ -38,6 +43,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Images didn't have alpha any more
 
+---
+
 > ## [0.9.0.50] - 2026-06-29
 > 
 > ### Added
@@ -47,24 +54,16 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 > ## [0.9.0.3] - 2026-06-27
 > 
 > ### Added
-> - Dial and pages now match the APK. Some text has been updated already
+> - Dial and pages now match the APK, some text have not been updated yet
 > - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
+> 
+> ## [0.0.1] - 2026-06-24
+> 
+> ### Added
+> - Dial running
 
 ---
 
-## Project history
-
-This web version is the youngest sibling in the project. Both the original Raspberry Pi version and the high-accuracy Android app (APK) are still actively maintained and running alongside this new web edition. You can check out the APK project page here: https://github.com/gaxmann/gordonssunclock
-
-For a permanent wall clock, maybe the best option is still to buy a used Android tablet together with a 3 meter long USB cable and a timer that switches the charger on for about 2 hours in the morning and in the evening and hang it on the wall. I run this setup at home:
-
----
-
-<p float="left">
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" /> -->
-  <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/eink.jpg" width="250" />
-</p>
+> *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability.*
 
 ---

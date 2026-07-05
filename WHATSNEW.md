@@ -1,47 +1,19 @@
 # What's new?
 Short summary of the latest changes. You'll find the [detailed changelog](./CHANGELOG.md) here.
 
-*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzrichtlinie)](https://axmann.eu/gscwpp.php?lg=en)*
+*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzerklärung)](https://axmann.eu/gscwpp.php?lg=en)*
 
 ---
 
-## [1.0.1.62] - 2026-07-04 (Compacted files)
+## [1.0.1] - 2026-07-04 (Compacted files)
+- Auto-translation languages added. Weather functionality added
+- Greatly reduced file size, many bug fixes
 
-### Changed
-- Code compacted from 480kB to 220kB
-- Images compacted from 1MB to 130kB
+## [1.0.0] - 2026-06-30 (First published)
+- Time control added to move the clock forward and backward in time. Code optimised
 
-## [1.0.1.48] - 2026-07-03 (Autotranslations added)
-
-### Added
-- Autotranslation languages added
-
-## [1.0.1.15] - 2026-07-03 (Weather added)
-
-### Added
-- Weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
-
-## [1.0.0.5] - 2026-06-30 (First published)
-
-### Added
-- Time control added to move the clock forward and backward in time
-- Code optimised
-- /info/ pages added
-
-### Fixed
-- Images didn't have alpha any more
-
-> ## [0.9.0.50] - 2026-06-29
-> 
-> ### Added
-> - Restructured. File size reduced by half through increased use of system fonts and WOFF2 compression
-> - CSS restructured
-> 
-> ## [0.9.0.3] - 2026-06-27
-> 
-> ### Added
-> - Dial and pages now match the APK. Some text has been updated already
-> - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
+## [0.9] - 2026-06-27 (First beta)
+- Dial and pages now match the APK, some features are still missing
 
 ---
 
