@@ -60,7 +60,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 > ## [0.0.1] - 2026-06-24
 > 
 > ### Added
-> - Dial running
+> - The dial is working
 
 ---
 
