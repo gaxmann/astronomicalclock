@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.0.1.71] - 2026-07-05
+## [1.0.1.70] - 2026-07-05
 
 ### Fixed
 - Small bug fixes
