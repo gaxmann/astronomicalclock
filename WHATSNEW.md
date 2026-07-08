@@ -5,9 +5,9 @@ Short summary of the latest changes. You'll find the [detailed changelog](./CHAN
 
 ---
 
-## [1.0.1] - 2026-07-04 (Compacted files)
+## [1.0.1] - 2026-07-04 (Reduced filesize)
 - Auto-translation languages added. Weather functionality added
-- Greatly reduced file size, many bug fixes
+- Greatly reduced file size, some bug fixes
 
 ## [1.0.0] - 2026-06-30 (First published)
 - Time control added to move the clock forward and backward in time. Code optimised
