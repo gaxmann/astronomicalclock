@@ -7,5 +7,6 @@ This repository contains the web implementation of the natural-time sun clock, i
 The web version uses JavaScript astronomy calculations and does **not** have the full Skyfield precision of the Android/Python version. Some app features are still missing or incomplete, including weather, time control, and several info pages.
 
 Link to Astronomical Clock: https://AstronomicalClock.eu/  
+Alternative link: https://sky12.de/  
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock
