@@ -1,6 +1,6 @@
 # Astronomical Clock ☀️
 
-***Browser/PWA version of Gordon's Sun Clock***
+<img src="res/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock***
 
 This repository contains the web implementation of the natural-time sun clock, including local astronomical calculations, offline support, and the canvas-based dial. It is the ongoing web port of the original Android/Python app.
 
@@ -26,3 +26,14 @@ Link to Astronomical Clock: https://astronomicalclock.eu/
 Short link: https://sky12.de/
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock
+
+---
+
+<p float="left">
+  <img src="_gitdesign/sunclock2604.png" width="250" />
+  <img src="_gitdesign/tablet.jpg" width="250" />
+  <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
+  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
+</p>
+
+---
