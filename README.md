@@ -1,6 +1,6 @@
 # Astronomical Clock ☀️
 
-<img src="_gitdesign/icon.jpg" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock***
+<img src="design/icon.jpg" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock***
 
 This repository contains the web implementation of the natural-time sun clock, including local astronomical calculations, offline support, and the canvas-based dial. It is the ongoing web port of the original Android/Python app.
 
