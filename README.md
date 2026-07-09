@@ -30,10 +30,9 @@ Main Android repository: https://github.com/gaxmann/gordonssunclock
 ---
 
 <p float="left">
-  <img src="_gitdesign/sunclock2604.png" width="250" />
-  <img src="_gitdesign/tablet.jpg" width="250" />
-  <!-- <img src="_gitdesign/screen_3b.png" width="250" /> -->
-  <!-- <img src="_gitdesign/eink.jpg" width="250" /> -->
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/eink.jpg" width="250" />
 </p>
 
 ---
