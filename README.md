@@ -35,3 +35,13 @@ Main Android repository: https://github.com/gaxmann/gordonssunclock
 </p>
 
 ---
+
+## Like it?
+
+If you enjoy Sun Clock, please consider:
+- Telling others about it – short link: sky12.de
+- Leaving a positive review on [Play Store](https://play.google.com/store/apps/details?id=de.ax12.zunclock) 
+- Reading what others say on the [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
+
+Enjoy using Sun Clock ☀️
+
