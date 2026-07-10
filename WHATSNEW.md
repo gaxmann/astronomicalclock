@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.0.1] - 2026-07-04 (Reduced filesize)
+## [1.0.1] - 2026-07-04 (Weather)
 - Auto-translation languages added. Weather functionality added
 - Greatly reduced file size, some bug fixes
 
