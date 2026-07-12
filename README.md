@@ -1,6 +1,6 @@
 # Astronomical Clock ☀️
 
-<img src="design/icon.jpg" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time that moves in harmony with the seasons**
+<img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time that moves in harmony with the seasons**
 
 This repository contains the web implementation of the natural-time sun clock, including local astronomical calculations, offline support, and the canvas-based dial. It is the ongoing web port of the original Android/Python app.
 
