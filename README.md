@@ -24,7 +24,7 @@ The web version uses JavaScript-based astronomical calculations (including VSOP8
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
 Link to Astronomical Clock: https://astronomicalclock.eu/  
-Short link: https://sky12.de/
+**Short link:** https://sky12.de/
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock
 
