@@ -8,7 +8,7 @@ The web version uses JavaScript-based astronomical calculations (including VSOP8
 
 ## Features
 
-- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limiations (see [Android app](https://github.com/gaxmann/gordonssunclock) for more precision)
+- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limiations (see [Android app](https://github.com/gaxmann/gordonssunclock) for JPL precision)
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real time set/rise**: Sun and Moon rise and set according to their apparent size
