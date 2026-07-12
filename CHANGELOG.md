@@ -15,7 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.2.14] - 2026-07-12 (Performance update)
 
 ### Changed
-- Speed optimisations: Solcal, time-zone, orbit, refresh, startup, weather metadata, and resize performance ⚡
+- Speed optimisations: Solcal, time-zone, orbit, refresh, startup, weather metadata, and resize ⚡
 
 ## [1.0.2.13] - 2026-07-12 (Bug fixes)
 
