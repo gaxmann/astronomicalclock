@@ -22,7 +22,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ## Project history
 
-This web version is the youngest sibling in the project. Both the original Raspberry Pi version and the high-accuracy Android app (APK) are still actively maintained and running alongside this new web edition. You can check out the APK project page here: https://github.com/gaxmann/gordonssunclock
+This web version is the latest addition to the project. For more information, take a look at the parent project, the high-precision JPL Android app: https://github.com/gaxmann/gordonssunclock
 
 For a permanent wall clock, maybe the best option is still to buy a used Android tablet together with a 3 meter long USB cable and a timer that switches the charger on for about 2 hours in the morning and in the evening and hang it on the wall. I run this setup at home:
 
