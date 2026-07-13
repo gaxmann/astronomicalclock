@@ -13,7 +13,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Auto-translation languages added. Weather functionality added
 - Greatly reduced file size, some bug fixes
 
-## [1.0.0] - 2026-06-30 (First published)
+## [1.0.0] - 2026-06-30 (Initial publication)
 - Time control added to move the clock forward and backward in time. Code optimised
 
 ## [0.9] - 2026-06-27 (First beta)
