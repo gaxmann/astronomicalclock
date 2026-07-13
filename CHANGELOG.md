@@ -20,7 +20,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.2.13] - 2026-07-12 (Bug fixes)
 
 ### Fixed
-- Altitudes below the horizon were not correctly compensated for missing refraction by JS Astronomy library #1.0.1.79
+- Altitudes below the horizon were not correctly compensated by JS Astronomy library for using no refraction below -1° #1.0.1.79
 - Favicon as png
 - A lot of small bug fixes regarding the translation from py to js
 
