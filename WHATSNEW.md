@@ -6,8 +6,8 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.0.2] - 2026-07-11 (Bug fixes)
-- Compensates for incorrect below-horizon refraction
-- Performance optimisations ⚡, many bug fixes
+- Compensates for incorrect below-horizon refraction, many bug fixes
+- Performance optimisations ⚡
 
 ## [1.0.1] - 2026-07-04 (Weather added)
 - Auto-translation languages added. Weather functionality added
