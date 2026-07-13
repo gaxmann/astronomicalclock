@@ -16,7 +16,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - Reduced complexity: Removed unnecessary sky-position caches and implicit global geometry state
-- Bug fixes: Prevented a duplicate startup render when a saved automatic location has no valid fix. Simplified startup, cache invalidation, language loading, and background refresh handling. Fixed early rendering
+- Bug fixes: Prevented a duplicate startup render when a saved automatic location has no valid fix. Simplified startup, background refresh handling. Fixed early rendering
  
 ## [1.0.2.14] - 2026-07-12 (Performance update)
 
