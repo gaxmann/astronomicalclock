@@ -12,10 +12,16 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.0.2.19] - 2026-07-13 (Reduced complexity)
+
+### Changed
+- Reduced complexity: Removed unnecessary sky-position caches and implicit global geometry state
+- Bug fixes: Prevented a duplicate startup render when a saved automatic location has no valid fix. Simplified startup, cache invalidation, language loading, and background refresh handling. Fixed early rendering
+ 
 ## [1.0.2.14] - 2026-07-12 (Performance update)
 
 ### Changed
-- Speed optimisations: Solcal, time-zone, orbit, refresh, startup, weather metadata, and resize ⚡
+- Speed optimisations ⚡: Solcal, orbit, refresh, startup, weather metadata, and resize
 
 ## [1.0.2.13] - 2026-07-12 (Bug fixes)
 
