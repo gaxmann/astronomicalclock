@@ -82,6 +82,6 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-> *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability.*
+> *All notable changes to this project will be documented in this file (tags: Added, Changed, Deprecated, Removed, Fixed, Security). The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) plus a revision number. - Risk-based categorisation applies: **Added** introduces the highest risk of new errors, **Changed** usually stabilises behaviour, **Fixed** improves stability.*
 
 ---
