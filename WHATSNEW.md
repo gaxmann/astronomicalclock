@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.0.3] - 2026-07-14 (Realistic stars)
-- Added realistic rendering for the brightest stars. Original greyscale design added
+- Stars are now rendered more realistically. Original greyscale design added as another option
 
 ## [1.0.2] - 2026-07-11 (Bug fixes)
 - Compensates for incorrect below-horizon refraction, many bug fixes
