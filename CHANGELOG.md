@@ -12,6 +12,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.0.3.1] - 2026-07-14 (Telescope stars)
+
+### Changed
+- Stars in the Telescope design now telescope design instead of symbolic: uses B-V based colours, magnitude-scaled cores, day/night rendering
+
 ## [1.0.2.20] - 2026-07-14 (Reduced complexity)
 
 ### Changed
