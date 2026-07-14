@@ -12,11 +12,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.0.3.1] - 2026-07-14 (Stars & Greyscale)
+## [1.0.3.19] - 2026-07-14 (Stars & Greyscale)
 
 ### Added
-- Stars in the Telescope design are now realistic instead of symbolic: B-V based colours, magnitude-scaled cores, dark/light differences
-- Original greyscale design added
+- Stars in the Telescope design are now realistic instead of symbolic: B-V based colours, magnitude-scaled cores, dark/light mode differences
+- Original greyscale design added, bug fixes
 
 ## [1.0.2.20] - 2026-07-14 (Reduced complexity)
 
