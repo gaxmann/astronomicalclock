@@ -39,13 +39,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - Altitudes below the horizon were not correctly compensated by JS Astronomy library for using no refraction below -1° #1.0.1.79
+- Bug fixes #1.0.1.70
 - Favicon as png
 - A lot of small bug fixes regarding the translation from py to js
-
-## [1.0.1.70] - 2026-07-05
-
-### Fixed
-- Small bug fixes
 
 ## [1.0.1.62] - 2026-07-04 (Compacted files)
 
@@ -53,15 +49,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Code compacted from 480kB to 220kB
 - Images compacted from 1MB to 130kB
 
-## [1.0.1.48] - 2026-07-03 (Autotranslations added)
+## [1.0.1.48] - 2026-07-03 (Weather overview)
 
 ### Added
+- Weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
 - Autotranslation languages added
-
-## [1.0.1.37] - 2026-07-03 (Weather overview)
-
-### Added
-- All weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
 
 ## [1.0.0.5] - 2026-06-30 (First published)
 
