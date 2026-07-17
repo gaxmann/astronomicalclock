@@ -20,7 +20,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ## [1.0.0] - 2026-06-30 (Initial publication)
 - Time control added to move the clock forward and backward in time. Code optimised
 
-## [0.9] - 2026-06-27 (First beta)
+## [0.9.0] - 2026-06-27 (First beta)
 - Dial and pages now match the APK, some features are still missing
 
 ---
