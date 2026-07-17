@@ -53,10 +53,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - Autotranslation languages added
 
-## [1.0.1.15] - 2026-07-03 (Weather added)
+## [1.0.1.37] - 2026-07-03 (Weather overview)
 
 ### Added
-- Weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
+- All weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
 
 ## [1.0.0.5] - 2026-06-30 (First published)
 
@@ -66,7 +66,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - /info/ pages added
 
 ### Fixed
-- Images didn't have alpha any more
+- Images lost alpha channel
 
 ---
 
@@ -79,8 +79,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 > ## [0.9.0.3] - 2026-06-27
 > 
 > ### Added
-> - Dial and pages now match the APK, some text have not been updated yet
-> - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
+> - Dial and pages now match the APK
+> - Some features are still missing, e.g. Time control, Design selection, Weather, Alarms
 > 
 > ## [0.0.1.40] - 2026-06-24
 > 
