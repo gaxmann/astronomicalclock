@@ -82,7 +82,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 > - Dial and pages now match the APK, some text have not been updated yet
 > - Some features are still missing, including: Time control, Design selection, Weather, and Alarms
 > 
-> ## [0.0.1] - 2026-06-24
+> ## [0.0.1.40] - 2026-06-24
 > 
 > ### Added
 > - The dial is working
