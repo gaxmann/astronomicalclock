@@ -16,6 +16,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Link to rain radar when it rains
+- Only stars that are sometimes visible will be displayed
 
 ## [1.0.3.38] - 2026-07-16 (Realistic stars)
 
