@@ -12,6 +12,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.0.3.53] - 2026-07-19
+
+### Added
+- Persistent location and altitude cache added 
+
 ## [1.0.3.46] - 2026-07-18
 
 ### Added
