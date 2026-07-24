@@ -14,7 +14,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ## [1.0.3.67] - 2026-07-24
 
-### Added
+### Changed
 - Weather diagram now uses continuous scaling
 
 ## [1.0.3.53] - 2026-07-19
