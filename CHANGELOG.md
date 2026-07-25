@@ -15,7 +15,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.3.67] - 2026-07-24
 
 ### Changed
-- Weather diagram now uses continuous scaling and better min/max handling
+- Weather diagram now uses continuous scaling and better min/max handling #1.0.3.67
+- Js built now with esbuild instead of Terser
 
 ## [1.0.3.53] - 2026-07-19
 
