@@ -16,7 +16,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom
-- Bug fixes
+- Bug fixes (solc memory leak)
 
 ## [1.0.3.78] - 2026-07-24
 
