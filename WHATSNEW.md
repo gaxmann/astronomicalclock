@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.0.4] - 2026-07-26 (Optimised Zoom)
-- Improved zoom: more efficient drawing, sharper rendering, and higher maximum zoom
+- Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom
 
 ## [1.0.3] - 2026-07-14 (Realistic stars)
 - Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores) ✨
