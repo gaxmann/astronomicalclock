@@ -12,11 +12,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.0.4.7] - 2026-07-26
+## [1.0.4.12] - 2026-07-26
 
 ### Added
-- Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom
-- Star height markers optimised (for zoom)
+- Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom #1.0.4.1
+- Star height markers optimised (for zoom) #1.0.4.7
+- Network timeout 5s #1.0.4.12
 - Bug fixes (solc memory leak)
 
 ## [1.0.3.78] - 2026-07-24
