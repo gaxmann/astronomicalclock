@@ -16,7 +16,6 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.5.1] - 2026-07-28
 
 ### Added
-- Weather week preview added with rain and wind symbols
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators
 
 ## [1.0.4.12] - 2026-07-26
