@@ -13,10 +13,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.0.5.1] - 2026-07-28
+## [1.0.5.5] - 2026-07-29
 
 ### Added
-- Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line
+- Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line # 1.0.5.1
+- In timecontrol time on data page now stops correctly
 
 ## [1.0.4.12] - 2026-07-26
 
