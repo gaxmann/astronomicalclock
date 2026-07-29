@@ -17,7 +17,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line #1.0.5.1
-- In timecontrol time on data page now stops correctly #1.0.5.5
+- In timecontrol time on data page now stops correctly, no Agni-fresh sign during timecontrol #1.0.5.7
 
 ## [1.0.4.12] - 2026-07-26
 
