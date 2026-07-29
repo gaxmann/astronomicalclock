@@ -13,7 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.0.5.5] - 2026-07-29
+## [1.0.5.7] - 2026-07-29
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line #1.0.5.1
