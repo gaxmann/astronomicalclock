@@ -17,6 +17,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - 10d Weather display with min and max temp lines
+- Snow is added
+
+### Fixed
+- rain was without snow, changed to precipation
 
 ## [1.0.5.7] - 2026-07-29
 
