@@ -16,7 +16,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.5.66] - 2026-08-01 
 
 ### Added
-- 10d weather now with sunshine duration, precipitation bars, a revised temperature grid, and improved week and edge rendering
+- 10d weather now with sunshine duration, precipitation bars, a revised temperature grid, and improved week and edge rendering. Also dry and windstill icons added for the first two days
 - 7d weather now shows separate snowfall
 
 ### Fixed
