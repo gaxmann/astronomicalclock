@@ -20,7 +20,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Snow is added
 
 ### Fixed
-- rain was without snow, changed to precipation
+- "rain" value was without snow, changed to precipation
 
 ## [1.0.5.7] - 2026-07-29
 
