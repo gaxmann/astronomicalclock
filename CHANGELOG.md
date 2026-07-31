@@ -13,7 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.0.5.23] - 2026-07-31 (10d Weather)
+## [1.0.5.23] - 2026-07-31 (10d weather)
 
 ### Added
 - 10d Weather display with min and max temp lines
@@ -22,7 +22,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - "rain" value was without snow, changed to precipation
 
-## [1.0.5.7] - 2026-07-29
+## [1.0.5.7] - 2026-07-29 (7d weather)
 
 ### Added
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line #1.0.5.1
