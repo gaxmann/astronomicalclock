@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.0.5] - 2026-07-28 (Weather preview)
-- Weather week preview with rain, snow and wind markers and temp graphs
+- Weather week preview with rain, snow and wind markers and fold-out temp graphs
 
 ## [1.0.4] - 2026-07-26 (Optimised Zoom)
 - Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom
