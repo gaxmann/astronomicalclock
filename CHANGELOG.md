@@ -16,8 +16,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.0.5.23] - 2026-07-31 (10d weather)
 
 ### Added
-- 10d Weather display with min and max temp lines
-- Snow is added
+- 10-day weather forecast with minimum and maximum temperature graph
+- Snow support for weather forecasts
 
 ### Fixed
 - "rain" value was without snow, changed to precipation
