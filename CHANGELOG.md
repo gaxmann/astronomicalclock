@@ -13,6 +13,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
+## [1.0.5.23] - 2026-07-31 (10d Weather)
+
+### Added
+- 10d Weather display with min and max temp lines
+
 ## [1.0.5.7] - 2026-07-29
 
 ### Added
