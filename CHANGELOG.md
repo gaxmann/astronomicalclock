@@ -13,6 +13,15 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
+## [1.0.5.66] - 2026-08-01 
+
+### Added
+- 10d weather now with sunshine duration, precipitation bars, a revised temperature grid, and improved week and edge rendering
+- 7d weather now shows separate snowfall
+
+### Fixed
+- Openmet: precip now correctly is precip instead of rain
+
 ## [1.0.5.23] - 2026-07-31 (10d weather)
 
 ### Added
