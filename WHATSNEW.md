@@ -5,14 +5,15 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.0.5] - 2026-07-28 (Weather preview)
-- 7 day weather preview with rain, snow and wind markers, and 9 day fold-out temp graphs
+## [1.0.5] - 2026-08-01 (Long-range weather)
+- Compact 7-day weather forecast with rain, snow, and wind markers
+- Expandable 9-day weather diagram with daily temperature curves and weather markers
 
 ## [1.0.4] - 2026-07-26 (Optimised Zoom)
-- Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom
+- Improved zoom: sharper rendering and higher maximum zoom
 
 ## [1.0.3] - 2026-07-14 (Realistic stars)
-- Stars are now rendered more realistically (B-V based colours, magnitude-scaled cores) ✨
+- More realistic star rendering (B-V based colours, magnitude-scaled cores) ✨
 - Original greyscale design added
 
 ## [1.0.2] - 2026-07-11 (Bug fixes)
@@ -20,14 +21,14 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Performance optimisations ⚡
 
 ## [1.0.1] - 2026-07-04 (Weather added)
-- Auto-translation languages added. Weather functionality added
+- Weather forecasts added
 - Greatly reduced file size, some bug fixes
 
 ## [1.0.0] - 2026-06-30 (Initial publication)
-- Time control added to move the clock forward and backward in time. Code optimised
+- Time control to move forward and backward in time
 
 ## [0.9.0] - 2026-06-27 (First beta)
-- Dial and pages now match the APK, some features are still missing
+- Dial and pages now match the APK
 
 ---
 
@@ -35,7 +36,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 This web version is the latest addition to the project. For more information, take a look at the parent project, the high-precision JPL Android app: https://github.com/gaxmann/gordonssunclock
 
-For a permanent wall clock, maybe the best option is still to buy a used Android tablet together with a 3 meter long USB cable and a timer that switches the charger on for about 2 hours in the morning and in the evening and hang it on the wall. I run this setup at home:
+For a permanent wall clock, one of the best options is to use a used Android tablet together with a 3 metre USB cable and a timer that switches the charger on for about two hours in the morning and evening. I run this setup at home:
 
 ---
 
