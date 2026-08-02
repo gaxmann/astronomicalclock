@@ -24,7 +24,8 @@ The web version performs all astronomical calculations locally in JavaScript (in
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
 Link to Astronomical Clock: https://astronomicalclock.eu/  
-**Short link:** https://sky12.de/
+**Short link:** https://sky12.de/  
+Info: https://astronomicalclock.eu/info
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock
 
