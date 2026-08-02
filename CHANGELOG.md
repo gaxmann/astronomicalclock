@@ -13,7 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.0.5.90] - 2026-08-02 
+## [1.0.5.98] - 2026-08-02 
 
 ### Added
 - 7d weather now shows separate snowfall
