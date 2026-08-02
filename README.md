@@ -12,7 +12,7 @@ The web version performs all astronomical calculations locally in JavaScript (in
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real-time rise/set**: Sun and Moon rise and set according to their apparent size
-- **Installable**: As a progressive web app
+- **Installable**: As a progressive web app 
 - **Offline capable**: No internet required after first setup (PWA)
 - **Optional weather overview**: Clear icon-based, drama-free daily outlook
 - **Temporal hours clock**: Display of ancient unequal hours (12 day hours & 4 night watches) – e.g. for historians or anyone seeking a deeper connection to historical timekeeping
