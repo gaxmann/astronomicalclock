@@ -21,6 +21,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Code optimised #1.0.5.83
 - Telescope design: new representation of meteor radiants #1.0.5.90
 - Improved visual detection of shooting stars
+- Português, Italiano and हिन्दी added
 
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
