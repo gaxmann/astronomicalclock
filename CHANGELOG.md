@@ -19,7 +19,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Code optimised #1.0.5.83
 - 7d weather now shows separate snowfall
 - 9d(+2d) weather instead of 10d. Now with sunshine duration, precipitation bars, a revised temperature grid, and improved week and edge rendering. Dry and windstill icons added. Day-1 and d+9 are now additionally drawn, so half of the line is still shown #1.0.5.74
-- Circle as a representation of meteor radiants #1.0.5.90
+- Last missing element for telescope design: unobtrusive circle as representation of meteor radiants instead of square symbol #1.0.5.90
 - Improved visual detection of shooting stars (considering meteor strength and moon position and illumination)
 - Português, Italiano and हिन्दी added (because autotr isn't working too well)
 
