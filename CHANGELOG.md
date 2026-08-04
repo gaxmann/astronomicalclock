@@ -25,6 +25,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - Openmet: precip now correctly is precip instead of rain
+- Star cores are now 10% smaller (too big on Tablets) 
 
 ## [1.0.5.23] - 2026-07-31
 
