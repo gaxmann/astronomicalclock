@@ -16,6 +16,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Weather analysis integrated copied from "Weather Clock 2016", optimised for 3d ahead and monsoon period
+- Shortcut to weather page: https://astronomicalclock.eu/?page=1 
 
 ## [1.0.5.98] - 2026-08-02 (9d weather)
 
