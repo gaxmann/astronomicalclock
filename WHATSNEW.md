@@ -5,8 +5,10 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
+## [1.1.1] - 2026-08-06 (Weather View)
+- New Weather View adapted from Weather Clock (2016) ([shortcut](https://sky12.de/?pg=1))
+
 ## [1.0.5] - 2026-08-01 (Long-range weather)
-- Compact 7-day weather forecast with rain, snow, and wind markers
 - Expandable 9-day weather diagram with daily temperature curves and weather markers
 
 ## [1.0.4] - 2026-07-26 (Optimised Zoom)
