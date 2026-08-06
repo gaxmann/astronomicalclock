@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.1.1] - 2026-08-06 (Weather analysis)
+## [1.1.1.1] - 2026-08-06 (Weather view)
 
 ### Added
 - Weather analysis integrated copied from "Weather Clock 2016", optimised for 3d ahead and monsoon period
