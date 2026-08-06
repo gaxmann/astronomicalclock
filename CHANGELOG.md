@@ -16,7 +16,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
-- Shortcut to weather page: https://sky12.de/?pg=1 
+- Shortcut to weather page: https://sky12.de/?pg=1
+- Brightnesses of planets are now shown
 
 ### Fixed
 - Some years didn't have solar data (e.g. 1971) #1.1.1.4
