@@ -15,7 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.1.1.1] - 2026-08-06 (Weather View)
 
 ### Added
-- Weather analysis integrated copied from "Weather Clock 2016", optimised for 3d ahead and monsoon period
+- New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock
 - Shortcut to weather page: https://sky12.de/?pg=1 
 
 ## [1.0.5.98] - 2026-08-02 (9d weather)
