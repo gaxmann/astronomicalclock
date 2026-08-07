@@ -12,15 +12,18 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.1.14] - 2026-08-06 (Weather View)
+## [1.1.1.22] - 2026-08-07 (Weather View)
 
 ### Added
 - New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
 - Shortcut to weather page: https://sky12.de/?pg=1
 - Brightnesses of planets are now shown #1.1.1.14
+- In Fullscreen mode reset of the clock after 5 min: back to dial, zoom off, time control off
+- Code optimised
 
 ### Fixed
 - Some years didn't have solar data (e.g. 1971) #1.1.1.4
+- New weather diagramm now stays visible even when location has changed but no new data were loaded; of course the "fresh sign" disappears #1.1.1.22
 
 ## [1.0.5.98] - 2026-08-02 (9d weather)
 
