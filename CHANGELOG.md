@@ -17,7 +17,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
 - Shortcut to weather page: https://sky12.de/?pg=1
-- Brightnesses of planets are now shown #1.1.1.14
+- Brightnesses of planets are now shown (missing APK feature) #1.1.1.14
 - In Fullscreen mode reset of the clock after 5 min: back to dial, zoom off, time control off
 - Code optimised
 
@@ -54,7 +54,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Weather 7-day trend preview with temperature ranges and rain and wind indicators in one line #1.0.5.1
 - In timecontrol time on data page now stops correctly, no Agni-fresh sign during timecontrol #1.0.5.7
 
-## [1.0.4.12] - 2026-07-26
+## [1.0.4.12] - 2026-07-26 (Improved zoom)
 
 ### Added
 - Improved zoom: more efficient dial creation, sharper rendering, and higher maximum zoom #1.0.4.1
@@ -116,6 +116,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - Weather functionality added (on dial #1.0.1.15) and on data page #1.0.1.37
 - Autotranslation languages added
+- Functionality now mainly matches the APK
 
 ## [1.0.0.5] - 2026-06-30 (First published)
 
