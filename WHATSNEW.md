@@ -22,7 +22,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Compensates for incorrect below-horizon refraction, many bug fixes
 - Performance optimisations ⚡
 
-## [1.0.1] - 2026-07-04 (Weather added)
+## [1.0.1] - 2026-07-04 (Weather forecast)
 - Weather forecasts added
 - Greatly reduced file size, some bug fixes
 
