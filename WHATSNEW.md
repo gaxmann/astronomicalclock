@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.1.1] - 2026-08-06 (Weather overview)
+## [1.1.1] - 2026-08-07 (Weather overview)
 - New weather view with concise near-term weather analysis and expandable 9-day outlook ([weather shortcut](https://sky12.de/?pg=1))
 
 <!--## [1.0.5] - 2026-08-01 (Long-range weather)
