@@ -18,6 +18,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
 - Shortcut to weather page: https://sky12.de/?pg=1
 - Brightnesses of planets are now shown (missing APK feature) #1.1.1.14
+- Planets now also glow at night
 - In Fullscreen mode reset of the clock after 5 min: back to dial, zoom off, time control off
 - Code optimised
 
