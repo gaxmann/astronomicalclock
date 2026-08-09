@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.1.22] - 2026-08-07 (Weather View)
+## [1.1.1.30] - 2026-08-09 (Weather View)
 
 ### Added
 - New Weather View, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
@@ -26,6 +26,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Some years didn't have solar data (e.g. 1971) #1.1.1.4
 - New weather diagramm now stays visible even when location has changed but no new data were loaded; of course the "fresh sign" disappears #1.1.1.22
+- Better GPS coordinates error handling #1.1.1.30
 
 ## [1.0.5.98] - 2026-08-02 (9d weather)
 
