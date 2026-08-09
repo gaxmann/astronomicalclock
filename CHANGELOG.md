@@ -21,6 +21,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Planets now also glow at night
 - In Fullscreen mode reset of the clock after 5 min: back to dial, zoom off, time control off
 - Code optimised
+- Waether diagrams are bigger on large devices
 
 ### Fixed
 - Some years didn't have solar data (e.g. 1971) #1.1.1.4
