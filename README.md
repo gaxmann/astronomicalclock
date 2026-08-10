@@ -1,4 +1,4 @@
-# Astronomical Clock ☀️
+# Astronomical Clock – Natural Time since 2019 ☀️
 
 <img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time in harmony with the seasons**
 
