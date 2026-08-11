@@ -12,6 +12,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.1.51] - 2026-08-11 (Arabic language)
+
+### Added
+- Language العربية added
+
+### Fixed
+- Meteor viewing area was painted over the moon 
+
 ## [1.1.1.30] - 2026-08-09 (Weather View)
 
 ### Added
