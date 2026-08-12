@@ -20,8 +20,9 @@ The web version performs all astronomical calculations locally in JavaScript (in
 - **Meteor showers:** the eight major streams with search area and radiant  
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Tablet mode**: Turn a tablet into a permanent wall clock (the Android app may be better suited for this)
-- **Languages**: Deutsch, English, Español, Français, Русский, 中文, Português, Italiano, हिन्दी plus some autotranslated languages
 - **Free & private**: Free of charge, no ads, privacy-friendly
+
+The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
 
 Link to Astronomical Clock: https://astronomicalclock.eu/  
 **Short link:** https://sky12.de/  
