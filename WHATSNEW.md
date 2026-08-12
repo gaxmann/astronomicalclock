@@ -6,17 +6,17 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.1] - 2026-08-07 (Weather overview)
-- New weather view with concise near-term weather analysis and expandable 9-day outlook ([weather shortcut](https://sky12.de/?pg=1)), العربية added
+- New weather view with concise near-term weather analysis and expandable 9-day outlook ([weather direct link](https://sky12.de/?pg=1)), العربية added
 
 <!--## [1.0.5] - 2026-08-01 (Long-range weather)
 - Expandable 9-day weather diagram with daily temperature curves and weather markers
 -->
 ## [1.0.4] - 2026-07-26 (Optimised zoom)
-- Improved zoom: sharper rendering and higher maximum zoom
+- Zoom: sharper rendering and higher maximum zoom
 
 ## [1.0.3] - 2026-07-14 (Realistic stars)
 - More realistic star rendering (B-V based colours, magnitude-scaled cores) ✨
-- Original greyscale design added
+- Original greyscale design
 
 ## [1.0.2] - 2026-07-11 (Bug fixes)
 - Compensates for incorrect below-horizon refraction, many bug fixes
