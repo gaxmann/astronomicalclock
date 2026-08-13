@@ -33,6 +33,13 @@ Main Android repository: https://github.com/gaxmann/gordonssunclock
 
 ---
 
+<p float="left">
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
+</p>
+
+---
+
 ## Why this clock exists
 
 *Natural time — making the rhythms we already live in visible again*
@@ -54,13 +61,6 @@ Civil time is useful, but its fixed hours can quietly cover over how much the da
 For me, the Sun Clock works best as a wall clock. I use an old Android tablet for this, the clock face showing throughout the day. In the evening, I like sitting in front of it, watching the positions of the celestial bodies, following the Sun's movement across the year, and feeling, even briefly, part of something larger than the day I've had.
 
 In that sense, natural time means one thing: reconnection to the rhythms of the universe we're already part of.
-
----
-
-<p float="left">
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
-</p>
 
 ---
 
