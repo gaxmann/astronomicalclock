@@ -1,10 +1,10 @@
-# Astronomical Clock – Natural Time since 2019 ☀️
+# Astronomical Clock – Local and Seasonal Time, 2019–2026 ☀️
 
 <img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time in harmony with the seasons**
 
-This repository contains the web implementation of the natural-time sun clock, including local astronomical calculations, offline support, and the canvas-based dial. It is the ongoing web port of the original Android/Python app.
+[AstronomicalClock.eu](https://astronomicalclock.eu/) is the browser/PWA implementation of the natural-time sun clock. It performs astronomical calculations locally in JavaScript, supports offline use, and renders the clock as a canvas-based dial. It is the ongoing web port of the original Android/Python app. The web version uses VSOP87 and IAU 2000B and does **not** provide the full Skyfield precision of the Android/Python version with JPL DE440 ephemerides. Sun-based alarms are still missing.
 
-The web version performs all astronomical calculations locally in JavaScript (including VSOP87 and IAU 2000B), and does **not** provide the full Skyfield precision of the Android/Python version (JPL DE440 ephemerides). Some app features are still missing or incomplete, such as sun-based alarms and multiple designs.
+This repository contains information about Astronomical Clock and its development history, including this README, the detailed changelog, and the shorter What's New overview.
 
 ## Features
 
@@ -29,6 +29,30 @@ Link to Astronomical Clock: https://astronomicalclock.eu/
 Info: https://astronomicalclock.eu/info
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock
+
+---
+
+## Why this clock exists
+
+*Natural time — making the rhythms we already live in visible again*
+
+My Sun Clock project has been evolving for over seven years now, though I've been searching for a fitting way to represent seasonal time for more than 20.
+
+At its heart, it is a clock. But unlike an ordinary clock, it doesn't treat time as an abstract framework that looks the same all year round. It aims to make time visible again as something local and seasonal, shaped by the actual movement of the Sun and by the annual rhythms our bodies are embedded in.
+
+I was dissatisfied with clocks that never show when the Sun rises or sets, how high it stands in the sky, or how day length shifts through the year. At 12 o'clock it usually isn't noon, and clock changes push the frame even further from what's happening outside. The Sun, after all, does not change its clocks.
+
+But astronomical knowledge was never really the point. It's a way back to a connection the body has never stopped living in. We can explain the tides, the seasons, the turning of the Earth, and still feel none of it. The point isn't to add knowledge here. It's to restore contact.
+
+That's also, for me, where the word natural points beyond biology — toward something like Sky and Earth, toward a larger order I don't need to name to feel held by. The clock gives that a shape I can look at.
+
+The organic clock face is built around the Sun's actual daily path at your location. A single hand carries the Sun along that path. Civil hours are marked along it, the horizon runs through the middle, and sunrise and sunset fall where the path crosses it, while the Moon, planets and bright stars share the same view. As the seasons change, so does the shape of that path.
+
+Civil time is useful, but its fixed hours can quietly cover over how much the day itself changes through the year. The body already knows the rhythms underneath. The clock simply makes them visible again, and in that, I find something close to solace.
+
+For me, the Sun Clock works best as a wall clock. I use an old Android tablet for this, the clock face showing throughout the day. In the evening, I like sitting in front of it, watching the positions of the celestial bodies, following the Sun's movement across the year, and feeling, even briefly, part of something larger than the day I've had.
+
+In that sense, natural time means one thing: reconnection to the rhythms of the universe we're already part of.
 
 ---
 
