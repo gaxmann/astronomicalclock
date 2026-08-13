@@ -2,7 +2,7 @@
 
 <img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time in harmony with the seasons**
 
-Astronomical Clock is the browser/PWA implementation of the natural-time sun clock (2019). It performs astronomical calculations locally in JavaScript, supports offline use, and renders the clock as a canvas-based dial. It is the ongoing web port of the original Android/Python app. The web version uses VSOP87 and IAU 2000B and does **not** provide the full Skyfield precision of the Android/Python version with JPL DE440 ephemerides. Sun-based alarms are still missing.
+Astronomical Clock is the browser/PWA implementation of the natural-time Sun Clock (2019). It performs astronomical calculations locally in JavaScript, supports offline use, and renders the clock as a canvas-based dial. It is the ongoing web port of the original Android/Python app. The web version uses VSOP87 and IAU 2000B and does **not** provide the full Skyfield precision of the Android/Python version with JPL DE440 ephemerides. Sun-based alarms are still missing.
 
 This repository contains information about Astronomical Clock and its development history, including this README, the detailed changelog, and the shorter What's New overview.
 
