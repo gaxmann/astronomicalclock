@@ -29,7 +29,7 @@ Link to Astronomical Clock: https://astronomicalclock.eu/
 **Short link:** https://sky12.de/  
 Info: https://astronomicalclock.eu/info
 
-Main Android repository: https://github.com/gaxmann/gordonssunclock
+Main Android repository and wiki: https://github.com/gaxmann/gordonssunclock
 
 ---
 
