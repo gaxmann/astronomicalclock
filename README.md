@@ -1,6 +1,6 @@
 # Astronomical Clock – Local and Seasonal Time ☀️
 
-<img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock (2019)* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time in harmony with the seasons**
+<img src="design/icon.png" width="48" height="48" align="left">***Browser/PWA version of Gordon's Sun Clock* – A single-hand clock with a dial that changes daily, based on the rhythms of nature and the stars. A new way of displaying time in harmony with the seasons**
 
 [AstronomicalClock.eu](https://astronomicalclock.eu/) is the browser/PWA implementation of the natural-time sun clock (2019). It performs astronomical calculations locally in JavaScript, supports offline use, and renders the clock as a canvas-based dial. It is the ongoing web port of the original Android/Python app. The web version uses VSOP87 and IAU 2000B and does **not** provide the full Skyfield precision of the Android/Python version with JPL DE440 ephemerides. Sun-based alarms are still missing.
 
@@ -20,6 +20,7 @@ This repository contains information about Astronomical Clock and its developmen
 - **Meteor showers:** the eight major streams with search area and radiant  
 - **Agnihotra support**: Display precise Agnihotra times with countdown
 - **Tablet mode**: Turn a tablet into a permanent wall clock (the Android app may be better suited for this)
+- **Long-term project:** In continuous development since 2019
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
 The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
