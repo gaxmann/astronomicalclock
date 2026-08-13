@@ -47,4 +47,3 @@ If you enjoy Sun Clock, please consider:
 - Reading what others say on the [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
 
 Enjoy using Sun Clock ☀️
-
