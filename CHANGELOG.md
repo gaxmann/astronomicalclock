@@ -15,7 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.1.1.57] - 2026-08-13
 
 ### Added
-- Microsoft store
+- Entered Microsoft store with PWA
 
 ### Fixed
 - Wall clock mode and always improved 
