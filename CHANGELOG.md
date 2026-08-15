@@ -12,6 +12,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.1.62] - 2026-08-15
+
+### Fixed
+- The orbits are now free of rounding steps
+
 ## [1.1.1.57] - 2026-08-13
 
 ### Added
