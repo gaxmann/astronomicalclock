@@ -12,10 +12,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.1.65] - 2026-08-16
+## [1.1.1.88] - 2026-08-16
 
 ### Added
-- Infopages now in all 10 languages
+- Sky now changes with sun rise/set. Sun now glows at day
+- Infopages now in all 10 languages #1.1.1.65
 
 ### Fixed
 - The orbits are now free of rounding steps #1.1.1.62
