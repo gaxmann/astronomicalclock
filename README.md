@@ -29,6 +29,17 @@ Link to Astronomical Clock: https://astronomicalclock.eu/
 **Short link:** https://sky12.de/  
 Info: https://astronomicalclock.eu/info
 
+### Android app
+
+The Android version is currently available through Google Play as a closed test. Until Google enables public release, please join the tester group first:
+
+1. **Join:** https://groups.google.com/g/zunclock-testers
+2. **Install:** https://play.google.com/store/apps/details?id=eu.astronomicalclock.live
+
+Please remain enrolled for at least 14 days. Thank you for helping bring Astronomical Clock to Google Play.
+
+### More information/Wiki
+
 Main Android repository and wiki: https://github.com/gaxmann/gordonssunclock
 
 ---
