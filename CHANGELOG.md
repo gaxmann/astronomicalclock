@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.2.19] - 2026-08-16 (Sky colours)
+## [1.1.2.22] - 2026-08-18 (Sky colours)
 
 ### Added
 - Sky now changes with sun rise/set. Sun now glows at day #1.1.2.1
@@ -21,8 +21,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - The orbits are now free of rounding steps #1.1.1.62
-- Hour markers before year 1893 #1.1.2.19
-
+- Hour markers for historical GMT offsets with second differences #1.1.2.19
+- True local mean time for historical zones whose offsets are not whole 5-minute increments #1.1.2.22
+  
 ## [1.1.1.57] - 2026-08-13
 
 ### Added
