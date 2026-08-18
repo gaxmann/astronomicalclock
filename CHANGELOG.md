@@ -12,11 +12,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.2.1] - 2026-08-16 (Sky colours)
+## [1.1.2.19] - 2026-08-16 (Sky colours)
 
 ### Added
-- Sky now changes with sun rise/set. Sun now glows at day
+- Sky now changes with sun rise/set. Sun now glows at day #1.1.2.1
 - Infopages now in all 10 languages #1.1.1.65
+- [Numpad navigation](https://github.com/gaxmann/gordonssunclock/wiki/Numpad-navigation) added #1.1.2.19 
 
 ### Fixed
 - The orbits are now free of rounding steps #1.1.1.62
