@@ -6,12 +6,6 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-> ## Known issues
-> 
-> - The mobile back button is currently not supported correctly in the PWA and may leave a black screen
-
----
-
 ## [1.1.2.26] - 2026-08-19 (Sky colours)
 
 ### Added
