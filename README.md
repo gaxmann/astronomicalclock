@@ -6,6 +6,34 @@ Astronomical Clock is the browser/PWA implementation of the natural-time Sun Clo
 
 This repository contains information about Astronomical Clock and its development history, including this README, the detailed changelog, and the shorter What's New overview.
 
+_**Reconnect to your local, natural time**_
+
+The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. For more visual impressions and a detailed description, check out the Play Store page.
+
+---
+
+<p float="left">
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
+</p>
+
+---
+
+
+### Try it
+
+The web app runs directly in your browser on phones, tablets and computers. No account is required.
+
+Link to Astronomical Clock: https://astronomicalclock.eu/  
+**Short link:** https://sky12.de/  
+
+### Android app
+
+The Android version is currently available through Google Play as a closed test. Until Google enables public release, please join the tester group first:
+
+1. **Join:** https://groups.google.com/g/zunclock-testers
+2. **(Please wait a little bit and then) Install:** https://play.google.com/store/apps/details?id=eu.astronomicalclock.live
+
 ## Features
 
 - **Accurate solar positioning**: Within VSOP87 & IAU 2000B limitations (see [Android app](https://github.com/gaxmann/gordonssunclock) for JPL precision)
@@ -25,29 +53,11 @@ This repository contains information about Astronomical Clock and its developmen
 
 The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
 
-Link to Astronomical Clock: https://astronomicalclock.eu/  
-**Short link:** https://sky12.de/  
-Info: https://astronomicalclock.eu/info
+Info page: https://astronomicalclock.eu/info
 
-### Android app
-
-The Android version is currently available through Google Play as a closed test. Until Google enables public release, please join the tester group first:
-
-1. **Join:** https://groups.google.com/g/zunclock-testers
-2. **Install:** https://play.google.com/store/apps/details?id=eu.astronomicalclock.live
-
-Please remain enrolled for at least 14 days. Thank you for helping bring Astronomical Clock to Google Play.
-
-### More information/Wiki
+### Wiki
 
 Main Android repository and wiki: https://github.com/gaxmann/gordonssunclock
-
----
-
-<p float="left">
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
-</p>
 
 ---
 
