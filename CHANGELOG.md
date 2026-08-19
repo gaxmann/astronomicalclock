@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.2.22] - 2026-08-18 (Sky colours)
+## [1.1.2.22] - 2026-08-19 (Sky colours)
 
 ### Added
 - Sky now changes with sun rise/set. Sun now glows at day #1.1.2.1
@@ -24,7 +24,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Hour markers for historical GMT offsets with second differences #1.1.2.19
 - True local mean time for historical zones whose offsets are not whole 5-minute increments #1.1.2.22
 - Chrome system backbutton now quits app #1.1.2.24
-- Darkmode earth was black instead of darkgrey #1.1.2.25 
+- Darkmode earth was black instead of darkgrey #1.1.2.25
+- Star names in photodesign are now smaller
   
 ## [1.1.1.57] - 2026-08-13
 
