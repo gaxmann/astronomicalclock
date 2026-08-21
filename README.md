@@ -51,7 +51,7 @@ The Android version is currently available through Google Play as a closed test.
 - **Long-term project:** In continuous development since 2019
 - **Free & private**: Free of charge, no ads, privacy-friendly
 
-The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
+The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar), Türkçe (tr), Čeština (cs), Magyar (hu).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
 
 Info page: https://astronomicalclock.eu/info
 
