@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.3] - 2026-08-22
+## [1.1.3.16] - 2026-08-22
 
 ### Added
-- Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there is not enough changes to justify it. Replacements raw to ready integrated into JS (incl. hyphenation)
+- Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there is not enough changes to justify it. Replacements raw to ready integrated into JS (incl. hyphenation) #1.1.3.3
+- 9d weather diagramm now has a button to switch the view to the past 8 days (instead of future 8)
 
 ## [1.1.2.34] - 2026-08-21
 
