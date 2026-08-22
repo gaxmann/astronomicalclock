@@ -5,8 +5,9 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.1.2] - 2026-08-16 (Dynamic sky)
+## [1.1.3] - 2026-08-22 (Dynamic sky)
 - Dynamic sunset and twilight sky colours, daytime Sun glow
+- 7-day weather history, Türkçe, Čeština, Magyar added
 
 ## [1.1.1] - 2026-08-07 (Weather overview)
 - New weather view with concise near-term weather analysis and expandable 9-day outlook ([weather direct link](https://sky12.de/?pg=1)), العربية added
