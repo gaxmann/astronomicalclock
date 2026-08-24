@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.34] - 2026-08-22 (Auto-translation removed)
+## [1.1.3.46] - 2026-08-24 (Auto-translation removed)
 
 ### Added
 - Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there are not enough changes anymore to justify it. Replacements raw to ready integrated into JS (incl. hyphenation) #1.1.3.3
@@ -15,6 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - Solcal now has the correct month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point on 16th or 17th and light season start on 1st or last day of the month #1.1.3.34
+- Moon shadow was not round #1.1.3.46
 
 ## [1.1.2.34] - 2026-08-21
 
