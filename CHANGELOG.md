@@ -6,12 +6,13 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.46] - 2026-08-24 (Auto-translation removed)
+## [1.1.3.72] - 2026-08-24 (Auto-translation removed)
 
 ### Added
 - Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there are not enough changes anymore to justify it. Replacements raw to ready integrated into JS (incl. hyphenation) #1.1.3.3
 - 9d weather diagramm now has a button to switch the view to the past week
 - PP moved on /info/privacy #1.1.3.30
+- Rise/set: Opposite sky is now blue instead of orange #1.1.3.72
 
 ### Fixed
 - Solcal now has the correct month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point on 16th or 17th and light season start on 1st or last day of the month #1.1.3.34
