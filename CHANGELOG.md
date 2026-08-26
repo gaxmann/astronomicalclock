@@ -23,7 +23,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - Twilight colour optimised #1.1.2.34
-- PWA score optimised: html caching, lazy loading, wide screenshot #1.1.2.30
+- PWA score optimised: html caching, lazy loading, landscape screenshot added #1.1.2.30
 
 ## [1.1.2.26] - 2026-08-19 (Sky colours)
 
