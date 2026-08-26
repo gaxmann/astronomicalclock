@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.72] - 2026-08-24 (Auto-translation removed)
+## [1.1.3.72] - 2026-08-26 (Auto-translation removed)
 
 ### Added
 - Auto translate function removed. We now have 13 languages: Türkçe (tr), Čeština (cs), Magyar (hu) added. All php auto translate functionality removed; there are not enough changes anymore to justify it. Replacements raw to ready integrated into JS (incl. hyphenation) #1.1.3.3
