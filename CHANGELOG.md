@@ -17,7 +17,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Solcal now has the correct month lengths (29–31–31 | 31–32–31 | 31–31–30 | 29–30–29/30) to better fit the condition: astronomical fix point on 16th or 17th and light season start on 1st or last day of the month #1.1.3.34
 - Moon shadow was not round #1.1.3.46
-- PWA name internationalised 
+- PWA name localised
 
 ## [1.1.2.34] - 2026-08-21
 
