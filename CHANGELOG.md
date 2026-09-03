@@ -9,9 +9,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.1.3.83] - 2026-08-29 (Update logic)
 
 ### Fixed
-- The new Play Store apk now has matching fingerprints and correctly finds TWA provider (address line is now hidden)
-- After resume the timers now get restarted correctly
 - After version update the app now returns to the currently viewed page
+- After resume the timers now get restarted correctly
+- The new Play Store apk now has matching fingerprints and correctly finds TWA provider (address line is now hidden)
 
 ## [1.1.3.74] - 2026-08-26 (Auto-translation removed)
 
