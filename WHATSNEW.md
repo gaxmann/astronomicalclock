@@ -54,3 +54,5 @@ For a permanent wall clock, one of the best options is to use a used Android tab
 </p>
 
 ---
+
+_P.S. Since 1.0.2 Astronomical Clock is feature-complete with the original JPL APK app_
