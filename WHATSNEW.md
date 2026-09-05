@@ -31,7 +31,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Greatly reduced file size, some bug fixes
 
 ## [1.0.0] - 2026-06-30 (Initial publication)
-- Time control added to move forward and backward in time
+- Nearly everything is ported from py except weather
 
 ---
 
