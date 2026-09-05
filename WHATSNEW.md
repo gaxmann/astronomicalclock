@@ -10,7 +10,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - 7-day weather history, Türkçe, Čeština, Magyar added
 
 ## [1.1.1] - 2026-08-07 (Long-term weather)
-- New weather view with concise near-term weather analysis and expandable 9-day outlook ([weather direct link](https://sky12.de/?pg=1)), العربية added
+- Concise text-based weather summary, expandable to 9-day outlook or 7-day history ([weather direct link](https://sky12.de/?pg=1)), العربية added
 
 <!--## [1.0.5] - 2026-08-01 (Long-range weather)
 - Expandable 9-day weather diagram with daily temperature curves and weather markers
@@ -26,12 +26,12 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Compensates for incorrect below-horizon refraction, many bug fixes
 - Performance optimisations ⚡
 
-## [1.0.1] - 2026-07-04 (Weather forecast)
-- Weather forecasts added
+## [1.0.1] - 2026-07-04 (Short-term weather)
+- Weather forecasts added, PWA now feature-complete
 - Greatly reduced file size, some bug fixes
 
 ## [1.0.0] - 2026-06-30 (Initial publication)
-- Time control to move forward and backward in time
+- Time control added to move forward and backward in time
 
 ## [0.9.0] - 2026-06-27 (First beta)
 - Dial and pages now match the APK
