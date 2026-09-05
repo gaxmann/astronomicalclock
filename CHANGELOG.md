@@ -37,7 +37,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Twilight colour optimised #1.1.2.34
 - PWA score optimised: html caching, lazy loading, landscape screenshot added #1.1.2.30
 
-## [1.1.2.26] - 2026-08-19 (Sky colours)
+## [1.1.2.26] - 2026-08-19 (Sky colours) 🔥
 
 ### Added
 - Sky now changes with sun rise/set. Sun now glows at day #1.1.2.1
@@ -151,10 +151,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Reduced complexity: Removed unnecessary sky-position caches and global geometry state
 - Bug fixes: Prevented a duplicate startup render when a saved automatic location has no valid fix. Simplified startup, background refresh handling. Weather hidden in time control mode
  
-## [1.0.2.14] - 2026-07-12 (Performance update)
+## [1.0.2.14] - 2026-07-12 (Performance update) ⚡
 
 ### Changed
-- Speed optimisations ⚡: Solcal, orbit, refresh, startup, weather metadata, and resize
+- Speed optimisations: Solcal, orbit, refresh, startup, weather metadata, and resize
 
 ## [1.0.2.13] - 2026-07-12 (Bug fixes)
 
