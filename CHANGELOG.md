@@ -11,7 +11,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - Option to display temporal hours at night instead of night watches
 
-[1.1.3.83] - 2026-08-29 (Update logic)
+## [1.1.3.83] - 2026-08-29 (Update logic)
 
 ### Fixed
 - After version update the app now returns to the currently viewed page
