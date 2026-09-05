@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.88] - 2026-09-05
+## [1.1.3.89] - 2026-09-05
 
 ### Added
 - Option to display temporal night hours instead of night watches on dial
