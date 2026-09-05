@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.3] - 2026-08-22 (Dynamic sky)
-- Dynamic sunset and twilight sky colours, daytime Sun glow
+- Dynamic sunset and twilight sky colours 🔥, daytime Sun glow
 - 7-day weather history, Türkçe, Čeština, Magyar added
 
 ## [1.1.1] - 2026-08-07 (Weather overview)
