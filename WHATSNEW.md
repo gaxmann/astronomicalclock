@@ -15,7 +15,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 <!--## [1.0.5] - 2026-08-01 (Long-range weather)
 - Expandable 9-day weather diagram with daily temperature curves and weather markers
 -->
-## [1.0.4] - 2026-07-26 (Optimised zoom)
+## [1.0.4] - 2026-07-26 (Better zoom)
 - Zoom: sharper rendering and higher maximum zoom
 
 ## [1.0.3] - 2026-07-14 (Realistic stars)
