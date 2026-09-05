@@ -33,8 +33,8 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ## [1.0.0] - 2026-06-30 (Initial publication)
 - Time control added to move forward and backward in time
 
-## [0.9.0] - 2026-06-27 (First beta)
-- Dial and pages now match the APK
+> ## [0.9.0] - 2026-06-27 (First beta)
+> - Dial and pages now match the APK
 
 ---
 
