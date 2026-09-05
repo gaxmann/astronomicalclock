@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.89] - 2026-09-05
+## [1.1.3.93] - 2026-09-05
 
 ### Added
-- Option to display temporal hours at night instead of night watches
+- Option to display temporal hours at night instead of night watches #1.1.3.89
+- Minify to Terser #1.1.3.93
 
 ## [1.1.3.83] - 2026-08-29 (Update logic)
 
