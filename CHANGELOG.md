@@ -68,7 +68,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Meteor viewing area was painted over the moon 
 
-## [1.1.1.30] - 2026-08-09 (Weather Analysis) ✨
+## [1.1.1.30] - 2026-08-09 (Weather View) ✨
 
 ### Added
 - New Weather Analysis, bringing the 2016 "Weather Clock" concept into Astronomical Clock #1.1.1.1
