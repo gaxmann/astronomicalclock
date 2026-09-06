@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.101] - 2026-09-06 (Better short-range weather)
+## [1.1.3.104] - 2026-09-06 (Better short-range weather)
 
 ### Added
 - Option to display temporal hours at night instead of night watches #1.1.3.89
@@ -14,6 +14,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - 48h diagramm now increases in 6h steps instead of 24h
+- Stopped google autotranslation of page (which didn't work propperly because of refreshes)
 
 ### Fixed
 - Moon had a light border at night #101
