@@ -6,14 +6,15 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.106] - 2026-09-06 
+## [1.1.3.107] - 2026-09-06 
 
 ### Added
 - Option to display temporal hours at night instead of night watches #1.1.3.89
-- Minify to Terser #1.1.3.93
+- Tooltip for the 48h sun diagramm for hourly temperature
 
 ### Changed
 - 48h weather chart now always shows 72 hours of weather (including yesterday) instead of just whole days
+- Minify to Terser #1.1.3.93
 - Stopped google autotranslation of page (which didn't work propperly because of refreshes)
 
 ### Fixed
