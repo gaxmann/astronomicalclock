@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.113] - 2026-09-10 
+## [1.1.3.118] - 2026-09-10 
 
 ### Added
 - 9d weather diagram now also has tooltips on the sun rectangles
+- Agnihotra times shown on dial like in the py app
 
 ## [1.1.3.107] - 2026-09-06 
 
