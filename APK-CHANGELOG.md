@@ -6,12 +6,12 @@ The Android wrapper and the web app use separate versioning. The version numbers
 
 ---
 
-## [v1.1/2] - 2026-09-11
+## [1.1-v2] - 2026-09-11
 
 ### Changed
 - TWA start mode changed from `standalone` to `fullscreen`
 
-## [v1.1/1] - 2026-08-13
+## [1.1-v1] - 2026-08-13
 
 ### Added
 - Initial baseline version of the Android wrapper
