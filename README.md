@@ -36,7 +36,7 @@ The Android version is currently available through Google Play as a closed test.
 
 ## Features
 
-- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limitations (see [Android app](https://github.com/gaxmann/gordonssunclock) for JPL precision)
+- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limitations (see this [Android app](https://github.com/gaxmann/gordonssunclock) for JPL precision)
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real-time rise/set**: Sun and Moon rise and set according to their apparent size
