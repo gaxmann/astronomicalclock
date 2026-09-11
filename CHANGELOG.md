@@ -6,11 +6,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.126] - 2026-09-11 
+## [1.1.3.127] - 2026-09-11 
 
 ### Added
 - 9d weather diagram now also has tooltips on the sun rectangles
 - Agnihotra times shown on dial like in the py app
+- automatic language select comes back
 
 ### Changed
 - Manifest now starts app in fullscreen (if supported). New margins for weather and data. The logic of the fullscr buttons and the wall clock mode and display time checkbox are adjusted accordingly
