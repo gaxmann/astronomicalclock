@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.125] - 2026-09-11 
+## [1.1.3.126] - 2026-09-11 
 
 ### Added
 - 9d weather diagram now also has tooltips on the sun rectangles
