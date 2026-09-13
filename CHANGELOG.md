@@ -11,7 +11,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - Location code now is printed on the datapage
 
-###Fixed
+### Fixed
 - Weather data on dial were sometimes cut off because of wrong canvas length calculation 
 
 ## [1.1.3.127] - 2026-09-11 
