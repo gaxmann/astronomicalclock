@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.134] - 2026-09-13 
+## [1.1.3.135] - 2026-09-13 
 
 ### Added
 - Location code now is printed on the datapage
