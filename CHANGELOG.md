@@ -18,6 +18,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Weather data on dial were sometimes cut off because of wrong canvas length calculation
 - Font and diagramm sizes 
 - Chromium r2l didn't work with العربية
+- After Chromium update GPS went stale and didn't refresh 
 - When no GPS fix it now waits for 2 min
 
 ## [1.1.3.127] - 2026-09-11 
