@@ -6,10 +6,13 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.144] - 2026-09-14 
+## [1.1.3.146] - 2026-09-14 
 
 ### Added
 - Location code now is printed on the datapage
+
+### Changed
+- Wetter online radar now worldwide
 
 ### Fixed
 - Weather data on dial were sometimes cut off because of wrong canvas length calculation
