@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.135] - 2026-09-13 
+## [1.1.3.144] - 2026-09-14 
 
 ### Added
 - Location code now is printed on the datapage
@@ -14,6 +14,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Weather data on dial were sometimes cut off because of wrong canvas length calculation
 - Font and diagramm sizes 
+- Chromium r2l didn't work with العربية
+- When no GPS fix it now waits for 2 min
 
 ## [1.1.3.127] - 2026-09-11 
 
