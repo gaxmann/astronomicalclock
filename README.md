@@ -25,7 +25,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 The web app runs directly in your browser on phones, tablets and computers. No account is required.
 
 Link to Astronomical Clock: https://astronomicalclock.eu/  
-**Short link:** https://sky12.de/  
+Short link: **sky12.de** – (_.de_ for Germany)
 
 ### Android app
 
