@@ -24,7 +24,7 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 The web app runs directly in your browser on phones, tablets and computers. No account is required.
 
-Link to Astronomical Clock: https://astronomicalclock.eu/  
+Link to Astronomical Clock: https://AstronomicalClock.eu/  
 Short link: **sky12.de** – (_.de_ for Germany)
 
 ### Android app
@@ -53,7 +53,7 @@ The Android version is currently available through Google Play as a closed test.
 
 The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar), Türkçe (tr), Čeština (cs), Magyar (hu).* My long-term goal is to provide full support for the most widely used languages (Bengali, Indonesian are still missing). 
 
-Info page: https://astronomicalclock.eu/info
+Info page: https://AstronomicalClock.eu/info
 
 ### Wiki
 
