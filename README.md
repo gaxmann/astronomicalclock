@@ -19,8 +19,9 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ---
 
+## Try it
 
-### Try it
+### Web app (PWA)
 
 The web app runs directly in your browser on phones, tablets and computers. No account is required.
 
