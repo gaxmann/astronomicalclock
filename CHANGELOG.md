@@ -20,7 +20,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Chromium r2l didn't work with العربية
 - After Chromium update GPS went stale and didn't refresh 
 - When no GPS fix it now waits for 2 min
-- Error with twilight dial creation, solcal cache handling, data page update overhead, service-worker reload handling
+- Error with twilight dial creation, solcal cache handling, data page update overhead, service-worker reload handling fixed
 
 ## [1.1.3.127] - 2026-09-11 
 
