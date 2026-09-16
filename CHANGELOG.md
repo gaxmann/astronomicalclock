@@ -6,17 +6,17 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.3.155] - 2026-09-16
+## [1.1.4.1] - 2026-09-16
 
 ### Added
-- Location code now is printed on the datapage together with a fresh-sign if applicable
+- Location code now is printed on the data page together with a fresh-sign if applicable
 
 ### Changed
 - Wetter online radar now worldwide
 
 ### Fixed
 - Weather data on dial were sometimes cut off because of wrong canvas length calculation
-- Font and diagramm sizes 
+- Font and diagram sizes 
 - Chromium r2l didn't work with العربية
 - After Chromium update GPS went stale and didn't refresh 
 - When no GPS fix it now waits for 2 min
