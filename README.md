@@ -21,16 +21,8 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Try it
 
-### Web app (PWA)
-
-The web app runs directly in your browser on phones, tablets and computers. No account is required.
-
-Link to Astronomical Clock: https://AstronomicalClock.eu/
-Short link: **sky12.de** – (*.de* for Germany)
-
-### Android app
-
-The Android app is available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live).
+- **Web / PWA:** The web app runs directly [in your browser](https://AstronomicalClock.eu/) on phones, tablets and computers — short link: **sky12.de**
+- **Android:** available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live)
 
 ## Features
 
