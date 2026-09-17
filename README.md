@@ -25,15 +25,12 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 The web app runs directly in your browser on phones, tablets and computers. No account is required.
 
-Link to Astronomical Clock: https://AstronomicalClock.eu/  
-Short link: **sky12.de** – (_.de_ for Germany)
+Link to Astronomical Clock: https://AstronomicalClock.eu/
+Short link: **sky12.de** – (*.de* for Germany)
 
 ### Android app
 
-The Android version is currently available through Google Play as a closed test. Until Google enables public release, please join the tester group first:
-
-1. **Join:** https://groups.google.com/g/zunclock-testers
-2. **(Please wait a little bit and then) Install:** https://play.google.com/store/apps/details?id=eu.astronomicalclock.live
+The Android app is available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live).
 
 ## Features
 
