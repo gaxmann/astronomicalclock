@@ -6,10 +6,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.15] - 2026-09-16 (New sky)
+## [1.1.4.24] - 2026-09-16 (New sky)
 
 ### Added
-- New sky colours
+- New sky colours and below horizont colour change
 - Location code now is printed on the data page together with a fresh-sign if applicable
 
 ### Changed
