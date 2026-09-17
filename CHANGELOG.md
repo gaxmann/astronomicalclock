@@ -22,6 +22,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - After Chromium update GPS went stale and didn't refresh 
 - When no GPS fix it now waits for 2 min
 - Error with twilight dial creation, solcal cache handling, data page update overhead, service-worker reload handling fixed
+- Below horizont now starts at 0° instead of -0.2667°, because of sunrise correction (from "Graphical rise/set" 26-06-03)
 
 ## [1.1.3.127] - 2026-09-11 
 
