@@ -22,7 +22,8 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 ## Try it!
 
 - **Web / PWA:**  
-  The [web app](https://AstronomicalClock.eu/) runs directly in your browser on phones, tablets and computers — short link: **sky12.de**
+  The [web app](https://AstronomicalClock.eu/) runs directly in your browser on phones, tablets and computers. It is also installable ([Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app)) 
+  Short link: **sky12.de**
 
 - **Android:**  
   Available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live), light weight (2 MiB)
