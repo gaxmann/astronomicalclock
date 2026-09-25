@@ -32,7 +32,7 @@ You don't even have to install it. It just runs in your browser on the web:
 
 ## Features
 
-- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limitations (see this [Android app](https://github.com/gaxmann/gordonssunclock) for JPL precision)
+- **Accurate solar positioning**: Within VSOP87 & IAU 2000B limitations (see this Android app for [JPL precision](https://github.com/gaxmann/gordonssunclock))
 - **Single-hand design**: Simple, clear, intuitive
 - **Location-based**: Adjusts to your coordinates (manual input or location detection)
 - **Real-time rise/set**: Sun and Moon rise and set according to their apparent size
