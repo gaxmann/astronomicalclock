@@ -6,8 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.39] - 2026-09-22 (New gpscode)
+## [1.1.4.42] - 2026-09-25 (New gpscode)
 
+### Added
+- Languages 日本語 and Bahasa Indonesia added 
+ 
 ### Changed
 - Location code changed to 2 chars instead of 3 with better resolution
 
