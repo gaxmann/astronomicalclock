@@ -61,7 +61,7 @@ Main Android repository and wiki: https://github.com/gaxmann/gordonssunclock
 
 *Natural time — making the rhythms we already live in visible again*
 
-My Sun Clock project has been evolving for over seven years now, though I've been searching for a fitting way to represent seasonal time for more than 20.
+My Sun Clock project has been evolving for over seven years now, though I've been searching for a fitting way to represent seasonal time for more than 20 years.
 
 At its heart, it is a clock. But unlike an ordinary clock, it doesn't treat time as an abstract framework that looks the same all year round. It aims to make time visible again as something local and seasonal, shaped by the actual movement of the Sun and by the annual rhythms our bodies are embedded in.
 
