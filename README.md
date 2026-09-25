@@ -53,7 +53,8 @@ Info page: https://AstronomicalClock.eu/info
 
 ### Wiki
 
-Main Android repository and wiki: https://github.com/gaxmann/gordonssunclock
+Main Android repository: https://github.com/gaxmann/gordonssunclock  
+and wiki: https://github.com/gaxmann/gordonssunclock/wiki
 
 ---
 
