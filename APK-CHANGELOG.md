@@ -2,7 +2,7 @@
 
 Changelog of the installable Android wrapper for [Astronomical Clock](https://AstronomicalClock.eu/).
 
-The Android wrapper and the web app use separate versioning. The version numbers in this file refer only to the Android wrapper. The wrapper includes the PWA web app, while the web app itself has its own version number and is updated independently without requiring a new APK release. _`anv-XX` = android.numeric_version_
+The Android wrapper and the web app use separate versioning. The version numbers in this file refer only to the Android wrapper. The wrapper includes the PWA web app, while the web app itself has its own version number and is updated independently without requiring a new APK release. _`#xx` = android.numeric_version_
 
 ---
 
