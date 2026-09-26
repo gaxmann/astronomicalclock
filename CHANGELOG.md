@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.45] - 2026-09-25 (New gpscode & moonnights)
+## [1.1.4.45] - 2026-09-25 (New gpscode & mooncal)
 
 ### Added
 - Languages 日本語 and Bahasa Indonesia added 
