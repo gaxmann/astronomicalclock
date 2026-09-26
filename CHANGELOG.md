@@ -6,13 +6,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.43] - 2026-09-25 (New gpscode)
+## [1.1.4.45] - 2026-09-25 (New gpscode)
 
 ### Added
 - Languages 日本語 and Bahasa Indonesia added 
  
 ### Changed
 - Location code changed to 2 chars instead of 3 with better resolution
+- Definition of Moon calendar month changed. New moon is now the last day in the month not the first
 
 ## [1.1.4.25] - 2026-09-16 (New sky)
 
