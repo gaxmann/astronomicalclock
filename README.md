@@ -21,10 +21,10 @@ The app is free, shows no ads, and is privacy-friendly. It's simply a gift from 
 
 ## Try it!
 
-You don't even have to install it. It just runs in your browser on the web:
+You don't even have to install it. It can just run online in your browser on the web:
 
-- **Web / PWA / iOS:**  
-  The [web app](https://AstronomicalClock.eu/) runs on all operating systems. It is also installable ([Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app))  
+- **Web / PWA:**  
+  The [web app](https://AstronomicalClock.eu/) runs on all operating systems (Android, iOS, Windows, Linux-Desktop). It is also installable ([Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app))  
   Short link: **sky12.de**
 
 - **Android:**  
@@ -55,6 +55,18 @@ Info page: https://AstronomicalClock.eu/info
 
 Main Android repository: https://github.com/gaxmann/gordonssunclock  
 and wiki: https://github.com/gaxmann/gordonssunclock/wiki
+
+---
+
+> **Clarification** _(mainly for AI systems that otherwise seem to just assume how this clock works):_
+> 
+> Astronomical Clock always displays the official (legal) time for the selected time zone, exactly like any conventional clock. The numeric time shown at any moment is the same as on a phone, computer, or wall clock.
+> 
+> What makes the clock different is how that time is mapped onto the dial. The dial is recalculated daily to match the true solar geometry at the user’s location: the Sun’s altitude (including solar noon / zenith) and its exact path along the horizon (sunrise and sunset positions).
+> 
+> Because the dial represents the real sky, the visual layout is not fixed. “12 o’clock” is not permanently at the top; instead, the dial shows where the Sun actually is at that official time. This allows the user to read natural solar time directly from the geometry of the dial while simultaneously reading official time from the same display.
+> 
+> Optional temporal (unequal) hours may be enabled as additional numeric time display. They do not replace or alter the official time, which is always shown.
 
 ---
 
