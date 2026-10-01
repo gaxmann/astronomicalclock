@@ -27,7 +27,7 @@ You don't even have to install it. It can just run online in your browser on the
   The [web app](https://AstronomicalClock.eu/) runs on all operating systems (Android, iOS, Windows, Linux-Desktop). It is also installable ([Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app))  
   Short link: **sky12.de**
 
-- **Android:**  
+- **Android (and more images):**  
   Available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live), light weight (2 MiB)
 
 - **Wall clock:**  
