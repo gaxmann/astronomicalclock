@@ -30,8 +30,8 @@ You don't even have to install it. It can just run online in your browser on the
 - **Android:**  
   Available on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live), light weight (2 MiB)
 
-- **Android:**  
-  More information about how to set up a [wall clock](https://github.com/gaxmann/gordonssunclock/wiki/Wall-Clock)
+- **Wall clock:**  
+  How to set it up as a [wall clock](https://github.com/gaxmann/gordonssunclock/wiki/Wall-Clock)
 
 ## Features
 
