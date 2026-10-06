@@ -52,12 +52,11 @@ You don't even have to install it. It can just run online in your browser on the
 
 The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar), Türkçe (tr), Čeština (cs), Magyar (hu), 日本語 (ja), Bahasa Indonesia (id).* My long-term goal is to provide full support for the most widely used languages (Bengali is still missing). 
 
-Info page: https://AstronomicalClock.eu/info
+### Wiki & info pages
 
-### Wiki
-
+Wiki pages: https://github.com/gaxmann/gordonssunclock/wiki
+Info & history: https://AstronomicalClock.eu/info/
 Main Android repository: https://github.com/gaxmann/gordonssunclock  
-and wiki: https://github.com/gaxmann/gordonssunclock/wiki
 
 ---
 
