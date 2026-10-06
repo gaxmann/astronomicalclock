@@ -8,7 +8,7 @@ This repository contains information about Astronomical Clock and its developmen
 
 _**Reconnect to your local, natural time**_
 
-The app is free, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. For more visual impressions and a detailed description, check out the Play Store page.
+The app is free, requires no account, shows no ads, and is privacy-friendly. It's simply a gift from me to the world. For more visual impressions and a detailed description, check out the Play Store page.
 
 ---
 
