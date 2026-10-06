@@ -52,7 +52,7 @@ You don't even have to install it. It can just run online in your browser on the
 
 The following languages are currently fully supported: *English (en), Deutsch (de), Español (es), Français (fr), Русский (ru), Português (pt), Italiano (it), 中文 (zh), हिन्दी (hi), العربية (ar), Türkçe (tr), Čeština (cs), Magyar (hu), 日本語 (ja), Bahasa Indonesia (id).* My long-term goal is to provide full support for the most widely used languages (Bengali is still missing). 
 
-### Wiki & info pages
+### Wiki & info
 
 Wiki pages: https://github.com/gaxmann/gordonssunclock/wiki  
 Info overview & History: https://AstronomicalClock.eu/info/  
@@ -69,6 +69,17 @@ Main Android repository: https://github.com/gaxmann/gordonssunclock
 > Because the dial represents the real sky, the visual layout is not fixed. “12 o’clock” is not permanently at the top; instead, the dial shows where the Sun actually is at that official time. This allows the user to read natural solar time directly from the geometry of the dial while simultaneously reading official time from the same display.
 > 
 > Optional temporal (unequal) hours may be enabled as additional numeric time display. They do not replace or alter the official time, which is always shown.
+
+### Contributing
+
+The app is free, requires no account, shows no ads, and is privacy-friendly. This repository serves as the public project hub for Astronomical Sun Clock. It contains project information, development history, changelogs. The complete application source is not currently published here. Suggestions and contributions are welcome, especially:
+
+- new or improved images and visual assets
+- ideas for the representation of the sky, daylight and twilight
+- algorithms, prototypes or code related to sky and twilight rendering
+- bug reports and suggestions for improving the application
+
+Please only contribute images, code or other material that is your own or that has a licence permitting its use in the project. Where applicable, please include the original source and licence information.
 
 ---
 
