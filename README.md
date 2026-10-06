@@ -111,7 +111,7 @@ In that sense, natural time means one thing: reconnection to the rhythms of the 
 
 If you enjoy Sun Clock, please consider:
 - Leaving a positive review on [Play Store](https://play.google.com/store/apps/details?id=eu.astronomicalclock.live) 
-- Share it with others – Short link: **sky12.de** (.de for Germany)
+- Sharing it with others – Short link: **sky12.de** (.de for Germany)
 - Reading what others say on the [Voices on Sun Clock](https://github.com/gaxmann/gordonssunclock/wiki/Voices-on-Sun-Clock) wiki page
 
 Enjoy using Sun Clock ☀️
