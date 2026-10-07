@@ -6,6 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.4.55] - 2026-10-07 (Moon halo)
+
+### Added
+- Moon halo
+
 ## [1.1.4.49] - 2026-09-25 (New gpscode & mooncal)
 
 ### Added
