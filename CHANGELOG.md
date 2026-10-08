@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.63] - 2026-10-08 (Moon halo)
+## [1.1.4.63] - 2026-10-09 (Moon halo)
 
 ### Added
 - Phase-aware Moon halo in photo design
