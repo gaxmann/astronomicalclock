@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.4.63] - 2026-10-09 (Moon halo)
+## [1.1.474] - 2026-10-12 (Moon halo)
 
 ### Added
 - Phase-aware Moon halo in photo design
+- Sun is 10% brighter to compensator for dynamic sky
 
 ### Fixed
 - Solcal cache and latitude handling
