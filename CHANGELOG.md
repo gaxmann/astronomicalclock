@@ -10,7 +10,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Phase-aware Moon halo in photo design
-- Sun is 10% brighter to compensator for dynamic sky
+- Sun img is 10% brighter to compensator for dynamic sky
 
 ### Fixed
 - Solcal cache and latitude handling
