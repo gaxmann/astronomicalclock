@@ -15,6 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Fixed
 - Solcal cache and latitude handling
 - Overlapping GPS requests, wake restarts and outdated timezone updates
+- Texts updated: explanations added 
 
 ## [1.1.4.49] - 2026-09-25 (New gpscode & mooncal)
 
