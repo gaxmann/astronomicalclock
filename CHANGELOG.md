@@ -6,7 +6,13 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.74] - 2026-10-12 (Moon halo)
+## [1.1.5.2] - 2026-10-16 (Dailight moon)
+
+### Added
+- Daylight moon now has a more realistic looking shadow
+- New terser version
+
+## [1.1.4.74] - 2026-10-12 (Moon halo)
 
 ### Added
 - Phase-aware Moon halo in photo design
