@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.15] - 2026-10-16 (Dailight moon)
+## [1.1.5.37] - 2026-10-18 (Dailight moon)
 
 ### Added
 - Daylight moon now has a more realistic shadow
