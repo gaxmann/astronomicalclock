@@ -6,10 +6,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.48] - 2026-10-19
+## [1.1.5.52] - 2026-10-19
 
 ### Added
 - Persistent storage
+
+### Changed
+- Full moon shown now within 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon)
+- 60.5h before full moon we now have a grey shadow during day (instead of no shadow), so that you can more easily spot the fullmoon
 
 ## [1.1.5.45] - 2026-10-18 (Better moon)
 
