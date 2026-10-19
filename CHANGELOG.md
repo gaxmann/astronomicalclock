@@ -6,6 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.5.48] - 2026-10-19
+
+### Added
+- Persistent storage
+
 ## [1.1.5.45] - 2026-10-18 (Better moon)
 
 ### Added
