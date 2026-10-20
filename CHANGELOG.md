@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.52] - 2026-10-19
+## [1.1.5.63] - 2026-10-20
 
 ### Added
 - Persistent storage
+- Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 
 ### Changed
 - Full moon shown now within 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon)
