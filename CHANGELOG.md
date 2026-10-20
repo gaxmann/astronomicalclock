@@ -10,12 +10,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Display of cloudage of sky throughout the night in 4 segments
+- Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 
 ## [1.1.5.63] - 2026-10-19
 
 ### Added
 - Persistent storage
-- Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 
 ### Changed
 - Full moon shown now within 12.5h instead of 12.33h
