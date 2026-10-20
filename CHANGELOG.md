@@ -6,11 +6,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.71] - 2026-10-20
+## [1.1.5.78] - 2026-10-20
 
 ### Added
 - Display of cloudage of sky throughout the night in 4 segments
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
+
+### Fixed
+- Temporal hour calculation for polar nights
 
 ## [1.1.5.63] - 2026-10-19
 
