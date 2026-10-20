@@ -6,7 +6,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.63] - 2026-10-20
+## [1.1.5.71] - 2026-10-20
+
+### Added
+- Display of cloudage of sky throughout the night in 4 segments
+
+## [1.1.5.63] - 2026-10-19
 
 ### Added
 - Persistent storage
