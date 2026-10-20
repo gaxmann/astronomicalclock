@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.78] - 2026-10-20
+## [1.1.5.80] - 2026-10-21 (Cloudcover indicator)
 
 ### Added
 - Display of cloudage of sky throughout the night in 4 segments
