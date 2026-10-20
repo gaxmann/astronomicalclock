@@ -13,13 +13,13 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 
 ### Changed
-- Full moon shown now within 12.5h instead of 12.33h (problem with value of 100% illum. display because of rounding and a shadow on the moon)
-- 60.5h before full moon we now have a grey shadow during day (instead of no shadow), so that you can more easily spot the fullmoon
+- Full moon shown now within 12.5h instead of 12.33h
+- Full moon now has an additional terminator line to make current phase easy to read
 
 ## [1.1.5.45] - 2026-10-18 (Better moon)
 
 ### Added
-- Daylight moon now has a more realistic shadow
+- Daylight moon now has a more realistic invisible "shadow"
 - Night moon now brightens the sky (best seen at full moon)
 - New terser version
 - Polski added
