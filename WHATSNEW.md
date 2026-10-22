@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.5] - 2026-10-22 (New sky)
-- New sky colours, better Moon (phase and glow), sky clarity indicator, 日本語, Polski and Bahasa Indonesia added. Many bug fixes
+- New sky colours, better Moon (phase and glow), sky clarity indicator, favourite locations, 日本語, Polski and Bahasa Indonesia added. Many bug fixes
 
 ## [1.1.3] - 2026-08-22 (Sky colours)
 - Dynamic sunset and twilight sky colours 🔥, daytime Sun glow
