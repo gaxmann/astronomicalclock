@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Display of cloudage of sky throughout the night in 4 segments
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 - Red marker on cloud cover indicator when a favourable meteor period coincides with a favourable sky clearness 
-- 48h weather diagram now also shows cloud coverage for star gazing prospects
+- 48h weather diagram now also shows sky clarity for star gazing prospects
 
 ### Fixed
 - Temporal hour calculation for polar nights
