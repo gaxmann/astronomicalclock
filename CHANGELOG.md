@@ -13,7 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 - Red marker on sky clarity indicator when a favourable meteor period coincides with a favourable sky clearness 
 - 48h weather diagram now also shows sky clarity for star gazing prospects
-- Favourite management using `.set` and `.del` plus a favourite name
+- Favourite location management using `.set` and `.del` plus a favourite name
 - `.upd` plus name reloads data from geocode_OSM and elevation_OTD
 
 ### Fixed
