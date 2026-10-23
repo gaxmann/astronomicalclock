@@ -24,7 +24,7 @@ The app is free, requires no account, shows no ads, and is privacy-friendly. It'
 You don't even have to install it. It can just run online in your browser on the web. It's a gift of mine:
 
 - **Web / PWA:**  
-  The [web app](https://AstronomicalClock.eu/) runs on all operating systems (Android, iOS, Windows, Linux-Desktop). It is also installable ([Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app))  
+  The [web app](https://AstronomicalClock.eu/) runs on all operating systems (Android, iOS, Windows, Linux-Desktop). It is also installable (see [Home Screen](https://github.com/gaxmann/gordonssunclock/wiki/Web-app))  
   Short link: **sky12.de**
 
 - **Android _(and more images):_**  
