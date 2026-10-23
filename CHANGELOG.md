@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.112] - 2026-10-22 (Sky clarity)
+## [1.1.5.123] - 2026-10-22 (Sky clarity)
 
 ### Added
 - Display of sky clarity throughout the night in 4 segments
