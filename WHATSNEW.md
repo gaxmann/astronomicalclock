@@ -7,7 +7,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ## [1.1.5] - 2026-10-22 (Refined sky)
 - More detailed sky colours, better Moon (phase and glow), 日本語, Polski and Bahasa Indonesia added
-- Sky clarity indicator, favourite locations. Many bug fixes
+- 4h weather on dial, favourite locations. Many bug fixes
 
 ## [1.1.3] - 2026-08-22 (Dynamic sky)
 - Dynamic sunset and twilight sky colours 🔥, daytime Sun glow
