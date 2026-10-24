@@ -6,18 +6,21 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.123] - 2026-10-22 (Sky clarity)
+## [1.1.5.146] - 2026-10-24 (4h weather on dial)
 
 ### Added
-- Display of sky clarity throughout the night in 4 segments
+- 4h weather outlook on dial. Current temperatur moved to the right (daily data on left)
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
-- Red marker on sky clarity indicator when a favourable meteor period coincides with a favourable sky clearness 
 - 48h weather diagram now also shows sky clarity for star gazing prospects
 - Favourite location management using `.set PLACE_NAME` and `.del PLACE_NAME` plus a favourite name
 - `.upd PLACE_NAME` reloads geocode and elevation data from OSM
 
 ### Fixed
 - Temporal hour calculation for polar nights
+
+### Removed
+- Display of sky clarity throughout the night in 4 segments
+- Red marker on sky clarity indicator when a favourable meteor period coincides with a favourable sky clearness 
 
 ## [1.1.5.63] - 2026-10-19
 
