@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.146] - 2026-10-24 (4h weather)
+## [1.1.5.152] - 2026-10-24 (4h weather)
 
 ### Added
 - 4h weather forecast on dial (current temperature moved to the right, only daily data on the left)
