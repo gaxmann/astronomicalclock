@@ -6,10 +6,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.146] - 2026-10-24 (4h weather on dial)
+## [1.1.5.146] - 2026-10-24 (4h weather)
 
 ### Added
-- 4h weather outlook on dial. Current temperatur moved to the right (daily data on left)
+- 4h weather forecast on dial (current temperature moved to the right, only daily data on the left)
 - Check whether the meteor shower has good visibility at least for 2 hours, and the display the radiant in red during the whole period
 - 48h weather diagram now also shows sky clarity for star gazing prospects
 - Favourite location management using `.set PLACE_NAME` and `.del PLACE_NAME` plus a favourite name
