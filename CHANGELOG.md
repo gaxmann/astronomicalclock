@@ -6,14 +6,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.5.152] - 2026-10-24 (4h weather)
+## [1.1.5.154] - 2026-10-24 (4h weather)
 
 ### Added
 - 4h weather forecast on dial. Current temperature moved to the right above the new 4h display (now only daily data on the left)
 - Check whether the meteor shower has good visibility at least for 2 hours, then display the radiant in red during the whole period to draw more attention to this event
 - 48h weather diagram now also shows sky clarity for star gazing prospects
 - Favourite location management: using `.set PLACE_NAME` and `.del PLACE_NAME` 
-- `.upd PLACE_NAME` reloads geocode and elevation data from OSM
+- `.upd PLACE` is NOT part of the new favourite system. It rather reloads geocode and elevation data from OSM for a location, available via OSM (only needed if some error occurred and the data is incorrect)
 
 ### Fixed
 - Temporal hour calculation for polar nights
