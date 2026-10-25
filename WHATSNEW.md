@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
-- Many performance optimisations ⚡
+- Performance optimisations ⚡
 
 ## [1.1.5] - 2026-10-22 (Refined sky)
 - More detailed sky colours, better Moon (phase and glow), 日本語, Polski and Bahasa Indonesia added
