@@ -6,10 +6,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.6.1] - 2026-10-25 (Performance optimisations) ⚡
+## [1.1.6.13] - 2026-10-26 (Performance optimisations) ⚡
 
 ### Added
 - Performance optimisations regardings the previous two release series (moon sky brightness, terminator shadow, tooltips data page, date and day border calculations) 
+- 48 weather diagram: Now marker has changed, grey overlay now stops at the last passed hour instead of day
+- Cache key in app changed from gpscode to .2f/.2f. Also height cache key wasn't aligned with the python implementation
 
 ## [1.1.5.154] - 2026-10-24 (4h weather)
 
