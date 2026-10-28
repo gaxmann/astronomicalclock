@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.6.13] - 2026-10-26 (Performance optimisations) ⚡
+## [1.1.6.19] - 2026-10-26 (Performance optimisations) ⚡
 
 ### Added
 - Performance optimisations regardings the previous two release series (moon sky brightness, terminator shadow, tooltips data page, date and day border calculations) 
