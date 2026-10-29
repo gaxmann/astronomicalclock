@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.7] - 2026-10-28 (New projection)
-- The dial has been given a new projection that better displays the equatorial locations and works better on desktop
+- New dial projection that better displays the equatorial locations and is better on desktop
 
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
