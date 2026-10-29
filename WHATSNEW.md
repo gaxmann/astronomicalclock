@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.1.7] - 2026-10-28 (New shape)
+## [1.1.7] - 2026-10-28 (Better projection)
 - The dial has been given a new projection that better displays the equatorial locations
 
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
