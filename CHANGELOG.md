@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-> #### [1.1.7.18] - Projektion V2b (optimiert, höher)  
+> #### [1.1.7.18] - Projektion V2b (azi optimiert, höher)  
 > #### [1.1.6.17] - Projektion V2c (gerade, näher an V2)  
 > #### [1.1.6.17] - Projektion V2 (stereographisch)  
 
