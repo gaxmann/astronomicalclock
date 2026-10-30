@@ -6,13 +6,13 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.35] - 2026-10-30 (New projection)
+## [1.1.7.39] - 2026-10-30 (New projection)
 
 ### Added
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop
 
 ### Fixed
-- Several bug fixes
+- Several bug fixes: historical years 1–99, wake lock, redundant calculations and requests
 
 > ##### [1.1.7.19] - Projektion V2d (stretched 2c)  
 > ##### [1.1.7.18] - Projektion V2b (azi optimiert, höher)  
