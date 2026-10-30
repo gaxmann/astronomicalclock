@@ -6,11 +6,11 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.7] - 2026-10-29 (New projection)
-- New dial projection that better displays the equatorial locations and is better on desktop
-
+- New ellipse dial projection. Performance optimisations ⚡
+<!--
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
-
+-->
 ## [1.1.5] - 2026-10-22 (Refined sky)
 - More detailed sky colours, better Moon (phase and glow), 日本語, Polski and Bahasa Indonesia added
 - 4h weather on dial, favourite locations. Many bug fixes
