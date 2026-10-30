@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.7] - 2026-10-29 (New projection)
-- New ellipse dial projection. Performance optimisations ⚡
+- New elliptical projection, better suited near equator. Performance optimisations ⚡
 <!--
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
