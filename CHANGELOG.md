@@ -7,9 +7,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 ## [1.1.7.21] - 2026-10-30 (New projection)
-- Projection changed from rectangle to ellipse
 
 ### Added
+- Projection changed from rectangle to ellipse
 
 > #### [1.1.7.19] - Projektion V2d (stretched 2c)  
 > #### [1.1.7.18] - Projektion V2b (azi optimiert, höher)  
