@@ -13,6 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - Several bug fixes: historical years 1–99, wake lock, redundant calculations and requests
+- Translation mistakes fixed in several langs
 
 > ##### [1.1.7.19] - Projektion V2d (stretched 2c)  
 > ##### [1.1.7.18] - Projektion V2b (azi optimiert, höher)  
