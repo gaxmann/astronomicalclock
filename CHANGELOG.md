@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.39] - 2026-10-30 (New projection)
+## [1.1.7.40] - 2026-10-30 (New projection)
 
 ### Added
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop
