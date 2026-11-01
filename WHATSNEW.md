@@ -1,7 +1,7 @@
 # What's new?
 Short summary of the latest changes. You'll find the [**detailed changelog**](./CHANGELOG.md) here.
 
-*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page (Android)](https://github.com/gaxmann/gordonssunclock), [Privacy policy (Datenschutzerklärung)](https://astronomicalclock.eu/info/privacy_en.html)*
+*Useful links: [**Wiki & FAQ**](https://github.com/gaxmann/gordonssunclock/wiki), [Project page (Android)](https://github.com/gaxmann/gordonssunclock), [Privacy policy](https://astronomicalclock.eu/info/privacy_en.html)*
 
 ---
 
