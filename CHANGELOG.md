@@ -6,13 +6,19 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.7.77] - 2026-11-03 (New light seasons)
+
+### Changed
+- Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
+- Light seasons now have 12 instead of 8 phases (4x3). The notation has changed from `Ϟ2b·65` to `L2·65`
+
 ## [1.1.7.63] - 2026-10-31 (New projection)
 
 ### Added
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop
 
 ### Changed
-- The solar seam between in the moon calendar now has a name and explicit notation: For a year-boundary section without a full moon, Π·y (p/z) is used 
+- The solar seam between in the moon calendar now has a name and explicit notation: For a year-boundary section without a full moon, Π·y (p/z) is used. Or: The year change within the Moon date notation changed from the "artificial" `Μ0·6 (15/29)` to the new Sun Seam notation `Π·24 (15/29)` that either indicates the end or the beginning of the new Light Year (whichever part is without a full Moon)
 
 ### Fixed
 - Several bug fixes: historical years 1–99, wake lock, redundant calculations and requests
