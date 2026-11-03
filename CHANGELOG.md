@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
 - Light seasons now have 12 instead of 8 phases (4x3). The notation has changed from `Ϟ2b·65` to `L2·65`
 
-## [1.1.7.63] - 2026-10-31 (New projection)
+## [1.1.7.63] - 2026-10-31 (New projection and Moon date year change notation)
 
 ### Added
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop
