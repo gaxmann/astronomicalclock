@@ -18,7 +18,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Projection changed from rectangle to ellipse: New dial projection that better displays the equatorial locations and is better on desktop
 
 ### Changed
-- The solar seam between in the moon calendar now has a name and explicit notation: For a year-boundary section without a full moon, Π·y (p/z) is used. Or: The year change within the Moon date notation changed from the "artificial" `Μ0·6 (15/29)` to the new Sun Seam notation `Π·24 (15/29)` that either indicates the end or the beginning of the new Light Year (whichever part is without a full Moon)
+- The solar seam between in the moon calendar now has a name and explicit notation: For a year-boundary section without a full moon, Π·y (p/z) is used
 
 ### Fixed
 - Several bug fixes: historical years 1–99, wake lock, redundant calculations and requests
