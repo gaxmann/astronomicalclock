@@ -6,14 +6,16 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.78] - 2026-11-04 (New light seasons)
+## [1.1.7.82] - 2026-11-04 (New light seasons)
 
 ### Changed
 - Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
 - Light seasons now have 12 instead of 8 phases (4x3). The notation has changed from `Ϟ4b·65` to `D2·65` (e.g. D for dark)
+- 8% larger font
 
 ### Fixed
 - On the data page light season date overview wasn't flipped for the south hemisphere
+- Above 90° the colour continues to change 
 
 ## [1.1.7.63] - 2026-10-31 (New projection and Moon date year change notation)
 
