@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.77] - 2026-11-03 (New light seasons)
+## [1.1.7.78] - 2026-11-04 (New light seasons)
 
 ### Changed
 - Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
