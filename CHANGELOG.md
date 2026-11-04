@@ -2,7 +2,7 @@
 
 Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'll find a [short summary](./WHATSNEW.md) of the latest changes here.
 
-*This browser/PWA edition prioritises speed and low resource usage. It uses a lightweight astronomy engine instead of Skyfield/DE440, resulting in minute-level precision instead of the sub-second precision of the Android version.*
+*This browser/PWA edition prioritises speed and low resource usage. It uses a lightweight astronomy engine (instead of Skyfield, DE440 and timezonefinder), resulting in minute-level precision instead of the sub-second precision of the Android version.*
 
 ---
 
