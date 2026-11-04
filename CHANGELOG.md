@@ -10,7 +10,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - Moon is displayed more naturally during daytime (without the border around it rather than the border around the shadow)
-- Light seasons now have 12 instead of 8 phases (4x3). The notation has changed from `Ϟ2b·65` to `L2·65`
+- Light seasons now have 12 instead of 8 phases (4x3). The notation has changed from `Ϟ4b·65` to `D2·65`
 
 ### Fixed
 - On the data page light season date overview wasn't flipped for the south hemisphere
