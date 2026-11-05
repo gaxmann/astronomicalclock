@@ -6,6 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.7.84] - 2026-11-05
+
+### Changed
+- Weather history now fetched data less frequently 
+
 ## [1.1.7.82] - 2026-11-04 (New light seasons)
 
 ### Changed
