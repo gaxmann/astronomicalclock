@@ -1,0 +1,517 @@
+{
+  "api": 1,
+  "id": "de-wettersingularitaeten",
+  "version": "0.3.4",
+  "areas": [
+    {
+      "bounds": {
+        "lat_min": 47.2,
+        "lat_max": 55.2,
+        "lon_min": 5.7,
+        "lon_max": 15.2
+      }
+    }
+  ],
+  "events": {
+    "hochwinter": {
+      "period": {
+        "from": "01-12",
+        "to": "02-01"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          0
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          5
+        ],
+        [
+          "or",
+          [
+            "tmin.rel",
+            "<=",
+            -6
+          ],
+          [
+            "tmax.rel",
+            "<=",
+            -6
+          ]
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "spaetwinter": {
+      "period": {
+        "from": "02-03",
+        "to": "02-28"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          0
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          8
+        ],
+        [
+          "or",
+          [
+            "tmin.rel",
+            "<=",
+            -6
+          ],
+          [
+            "tmax.rel",
+            "<=",
+            -6
+          ]
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "maerzwinter": {
+      "period": {
+        "from": "03-07",
+        "to": "03-26"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          1
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          12
+        ],
+        [
+          "or",
+          [
+            "tmin.rel",
+            "<=",
+            -6
+          ],
+          [
+            "tmax.rel",
+            "<=",
+            -6
+          ]
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "aprilkuehle": {
+      "period": {
+        "from": "04-11",
+        "to": "04-29"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          2
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          14
+        ],
+        [
+          "or",
+          [
+            "tmin.rel",
+            "<=",
+            -7
+          ],
+          [
+            "tmax.rel",
+            "<=",
+            -6
+          ]
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "eisheilige": {
+      "period": {
+        "from": "05-10",
+        "to": "05-27"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          6
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          26
+        ],
+        [
+          "tmin.rel",
+          "<=",
+          -6.5
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "schafskaelte": {
+      "frueh": {
+        "period": {
+          "from": "06-03",
+          "to": "06-13"
+        },
+        "search": [
+          [
+            "tmin.abs",
+            "<=",
+            10
+          ],
+          [
+            "tmax.abs",
+            "<=",
+            23
+          ],
+          [
+            "tmin.rel",
+            "<=",
+            -5.5
+          ]
+        ],
+        "display": [
+          "tmax",
+          "tmin"
+        ],
+        "event_anchor": "tmin",
+        "comment": "Years analysed (from, to) and percentage of occurance during this period"
+      },
+      "spaet": {
+        "period": {
+          "from": "06-15",
+          "to": "07-02"
+        },
+        "search": [
+          [
+            "tmin.abs",
+            "<=",
+            10
+          ],
+          [
+            "tmax.abs",
+            "<=",
+            24
+          ],
+          [
+            "tmin.rel",
+            "<=",
+            -6
+          ]
+        ],
+        "display": [
+          "tmax",
+          "tmin"
+        ],
+        "event_anchor": "tmin",
+        "comment": "Years analysed (from, to) and percentage of occurance during this period"
+      }
+    },
+    "hundstage": {
+      "period": {
+        "from": "07-09",
+        "to": "07-30"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          "<=",
+          11
+        ],
+        [
+          "tmax.abs",
+          "<=",
+          22
+        ],
+        [
+          "or",
+          [
+            "tmin.rel",
+            "<=",
+            -6
+          ],
+          [
+            "tmax.rel",
+            "<=",
+            -7
+          ]
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmax",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "altweibersommer": {
+      "period": {
+        "from": "09-20",
+        "to": "10-24"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          ">=",
+          8
+        ],
+        [
+          "tmax.abs",
+          ">=",
+          16
+        ],
+        [
+          "tmin.rel",
+          ">=",
+          -5
+        ],
+        [
+          "tmax.rel",
+          ">=",
+          5.6
+        ]
+      ],
+      "event_check": [
+        [
+          "prob",
+          "<",
+          70
+        ],
+        [
+          "rain",
+          "<",
+          2
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmax",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    },
+    "weihnachtstauwetter": {
+      "period": {
+        "from": "12-18",
+        "to": "12-30"
+      },
+      "search": [
+        [
+          "tmin.abs",
+          ">=",
+          -1
+        ],
+        [
+          "tmax.abs",
+          ">=",
+          3
+        ],
+        [
+          "tmin.rel",
+          ">=",
+          6
+        ]
+      ],
+      "display": [
+        "tmax",
+        "tmin"
+      ],
+      "event_anchor": "tmin",
+      "comment": "Years analysed (from, to) and percentage of occurance during this period"
+    }
+  },
+  "languages": {
+    "de": {
+      "mod_name": "Deutschland",
+      "hochwinter": {
+        "link": "https://de.wikipedia.org/wiki/Hochwinter",
+        "short_text": "Hochwinter kommt",
+        "long_text": "Als Hochwinter wird die Kernphase des Winters bezeichnet, die meist die kälteste Zeit des Jahres ist (bezügl. der Tagtemperaturen). Nun steht er mit einem Kälteeinbruch direkt vor der Tür.\n\nIm Anschluss an den Hochwinter folgen noch ein bis zwei weitere Winterphasen (Spätwinter und März-„Winter“) mit z.T. empfindlichen Nachttemperaturen, bevor die längere Sonneneinstrahlung endgültig für eine stürmische Pflanzenentwicklung und steigende Temperaturen sorgt.\n\nDie klassischen Winterphasen (Hoch- und Spätwinter) können zu Verwirrung beitragen: Denn wenn der Winter um den Jahreswechsel mild ist, beginnt die Flora in vielen Gegenden bereits im Januar mit dem Austreiben erster Blüte, dem sog. „Vor“-Frühling. Einerseits liegt dies an einem wärmer werdenden Klima, andererseits variieren besonders die drei Frühlingsphasen zeitlich sehr stark ganz in Abhängigkeit von der Strenge des Winters (der Vorfrühling beginnt z.B. zwischen Jan.-März).",
+        "NONE": {
+          "short_text": "Kein Hochwinter dieses Jahr",
+          "long_text": "Die Hochwinterphase bleibt dieses Jahr aus. Sie ist meist die kälteste Zeit des Jahres (bezügl. der Tagtemperaturen). Ihr Ausbleiben deutet auf einen milden Winterverlauf hin. Allerdings folgen im Anschluss an den Hochwinter noch ein bis zwei weitere Winterphasen (Spätwinter und März-„Winter“), die z.T. empfindliche Nachttemperaturen mit sich bringen können. Erst danach sorgt die längere Sonneneinstrahlung endgültig für steigende Temperaturen und eine stürmische Pflanzenentwicklung.\n\nDie Hoch- und Spätwinterphasen können zu Verwirrung führen: Ist der Winter zum Jahreswechsel sehr mild, beginnt die Flora bei uns schon im Januar mit dem Austreiben erster Blüten, dem sog. „Vor“-Frühling, noch bevor die klassischen Winterphasen begonnen haben. Einerseits liegt dies an einem wärmer werdenden Klima, andererseits variieren besonders die drei Frühlingsphasen zeitlich sehr stark ganz in Abhängigkeit von der Strenge des Winters (der Vorfrühling beginnt z.B. zwischen Jan.-März)."
+        }
+      },
+      "spaetwinter": {
+        "link": "https://de.wikipedia.org/wiki/Sp%C3%A4twinter",
+        "short_text": "Spätwinter kommt",
+        "long_text": "Als Spätwinter wird die Phase des Winters bezeichnet, die im Februar eintritt. Ihn charakterisiert vor allem die Kombination von empfindlichen Nachttemperaturen und häufigerem Sonnenschein. Jetzt naht er.\n\nIn die Zeit des Spätwinters fällt meist auch der Karneval, jene alte Tradition, in der die Menschen in Verkleidung und mit viel Lärm versuchen, den Winter zu vertreiben und dem Sommer Einlass zu gewähren.",
+        "NONE": {
+          "short_text": "Kein Spätwinter dieses Jahr",
+          "long_text": "Die klassische Spätwinterphase bleibt dieses Jahr aus. Sie wird gekennzeichnet vor allem durch die Kombination von empfindlichen Nachttemperaturen und häufigerem Sonnenschein. In manchen Jahren fällt der Februar dann so mild aus, daß die Tagtemperaturen eher an den nahenden Frühling erinnern.\n\nAllerdings hat der Winter sich noch nicht ganz verabschiedet: Im Anschluss an den Spätwinter folgt häufig noch der März-„Winter“ mit seinen charakteristischen, frostigen Nachttemperaturen. Erst danach sorgt die längere Sonneneinstrahlung endgültig für steigende Temperaturen und eine stürmische Pflanzenentwicklung."
+        }
+      },
+      "maerzwinter": {
+        "link": "https://de.wikipedia.org/wiki/M%C3%A4rzwinter",
+        "short_text": "Märzwinter kommt",
+        "long_text": "Mit März-„Winter“ wird ein später Kälteeinbruch in Mitteleuropa bezeichnet, der vor allem im Obstlandbau gefürchtet ist, da er (je nach Stärke) die Frühblüher empfindlich schädigen kann. Nun kommt er.\n\nDer Märzwinter gehört nicht mehr wirklich zum Winter, sondern ist eher eine winterliche Episode, die wieder Frost mit sich führt. Die Thematik des Frühling ist eben die Vermittlung zwischen Winter und Sommer, so daß dieser sowohl kalte als auch warme Elemente in sich trägt, auch wenn wir vor allem auf die nahende Wärme lugen."
+      },
+      "aprilkuehle": {
+        "link": "https://de.wikipedia.org/wiki/Wintereinbruch_in_Mitteleuropa_April_2016#Klimatologische_Einstufung",
+        "short_text": "Aprilkühle kommt",
+        "long_text": "Nach wärmeren Tagen bezeichnet die Aprilkühle eine Phase kühler Witterung. Sie ist nun da.\n\nDer April ist bekannt für sein wechselhaftes Wetter. Dies kommt so zustande, daß der Sonnenstand im April bereits dem von September entspricht, in dem wir z.T. 30 °C haben. Andererseits sind im April die Meere noch kalt und produzieren fleißig Kaltluft, so daß je nach Luftströmung sehr spontan unterschiedliche Witterung einsetzen kann."
+      },
+      "eisheilige": {
+        "link": "https://de.wikipedia.org/wiki/Eisheilige",
+        "short_text": "Eisheilige kommen",
+        "long_text": "Die Eisheiligen sind traditionell in Mitteleuropa ein wichtiges Ereignis, da sie meist die letzte Möglichkeit eines Frosteinbruchs anzeigen. Besonders im Mittelalter, als die Durchschnittstemperaturen noch kälter waren, war dies deutlich. Heute ist Frost im Mai eher selten, dennoch gibt es noch den Eisheiligen-Kälteeinbruch. Dieser kommt nun."
+      },
+      "schafskaelte": {
+        "link": "https://de.wikipedia.org/wiki/Schafsk%C3%A4lte",
+        "frueh": {
+          "short_text": "Frühe Schafskälte kommt",
+          "long_text": "Im Juni gibt es in Mitteleuropa oft einen Kälteeinbruch, der sich vor allem in Deutschland auswirkt. Durch kühle und feuchte, aus Nordwesten einströmende Luft sinkt die Temperatur um fünf bis zehn Grad Celsius: die sogenannte Schafskälte, welche nun im Anmarsch ist.\n\nDie Schafskälte besteht häufig aus zwei Kälteeinbrüchen (einen Anfang und einen Ende Juni). Daran schließt dann die erste Hochsommerperiode an, die je nach Laune des Jahresverlaufs mehr oder weniger stark ausgeprägt sein kann."
+        },
+        "spaet": {
+          "short_text": "Späte Schafskälte kommt",
+          "long_text": "Im Juni gibt es in Mitteleuropa oft einen Kälteeinbruch, der sich vor allem in Deutschland auswirkt. Durch kühle und feuchte, aus Nordwesten einströmende Luft sinkt die Temperatur um fünf bis zehn Grad Celsius: die sogenannte Schafskälte, welche nun im Anmarsch ist.\n\nDie Schafskälte besteht häufig aus zwei Kälteeinbrüchen (einen Anfang und einen Ende Juni). Daran schließt dann die erste Hochsommerperiode an, die je nach Laune des Jahresverlaufs mehr oder weniger stark ausgeprägt sein kann."
+        },
+        "NONE": {
+          "short_text": "Keine Schafskälte dieses Jahr",
+          "long_text": "Eine eindeutige Schafskälte blieb dieses Jahr aus. Üblicherweise bringt der Juni einen Kälteeinbruchs mit sich, der dem Beginn der ersten Hochsommerperiode im Juli vorausgeht. Solche Ereignisse finden jedoch nicht jedes Jahr statt."
+        }
+      },
+      "hundstage": {
+        "link": "https://de.wikipedia.org/wiki/Hundstage",
+        "short_text": "Julitemperatursturz ist da",
+        "long_text": "Der Juli-Temperatursturz ist da.\n\nDas Besondere daran ist: Die kühlere Witterung dauert meist nicht lange. An sie schließt sich in der Regel die zweite Hochsommerperiode an. Diese Sommerperiode kann lange dauern und sich bis weit in den August hineinziehen. Traditionellerweise nennt man diese Zeit meist „Hundstage“, was auf das Sternbild Canis Major (Großer Hund) zurückzuführen ist, das in dieser Zeit aufzugehen pflegte. (Mittlerweile jedoch hat sich das hochsommerliche Erscheinen des Sirius im Jahr weiter nach hinten verschoben, so daß die Ereignisse nicht mehr übereinstimmen. Der Name allein ist geblieben.)",
+        "NONE": {
+          "short_text": "Kein Julitemperatursturz dieses Jahr",
+          "long_text": "Der Juli-Temperatursturz bleibt dieses Jahr aus. Normalerweise leitet dieser nach einer kurzen Phase kühlerer Witterung die zweite Hochsommerperiode ein. Solche Ereignisse finden nicht jedes Jahr statt."
+        }
+      },
+      "altweibersommer": {
+        "link": "https://de.wikipedia.org/wiki/Altweibersommer",
+        "short_text": "Herbstwärmerückkehr",
+        "long_text": "Das ist insofern bemerkenswert, als aktuell die Zeit ist (Mitte September bis Ende Oktober), in der die Menschen auf einen „Altweibersommer“ hoffen. Der Altweibersommer ist eine Phase gleichmäßiger, sonniger Witterung, die das Jahr und den vergangenen Sommer noch einmal warm ausklingen lassen.\n\nAllein, der Altweibersommer läßt sich schlecht vorhersagen, da er (wie alle Singularitäten) nicht jedes Jahr eintritt und man auch im Voraus nicht weiß, ob nur ein paar schöne Tage kommen oder die ersehnte, längere Phase „stabilen Schönwetters“."
+      },
+      "weihnachtstauwetter": {
+        "link": "https://de.wikipedia.org/wiki/Weihnachtstauwetter",
+        "short_text": "Weihnachtstauwetter kommt",
+        "long_text": "Weihnachten, das alte Lichtfest, liegt in der dunkelsten Zeit des Jahres. Speziell in Mitteleuropa ist dies jedoch nicht die kälteste! In zwei von drei Jahren kommt zum Jahresende feuchte, warme Meeresluft zu uns, die die Temperaturen spürbar ansteigen läßt. (Der Norden bleibt manchmal davon verschont, da der Warmluftstrom nicht immer so weit reicht.)\n\nIm Anschluss an diese Phase zieht der Winter dann wieder ein mit seiner stillen und klaren Kraft."
+      }
+    },
+    "en": {
+      "mod_name": "Germany",
+      "hochwinter": {
+        "link": "https://de.wikipedia.org/wiki/Hochwinter",
+        "short_text": "Midwinter is approaching",
+        "long_text": "Midwinter is the heart of winter, usually the coldest time of year in terms of daytime temperatures. A cold spell is now approaching.\n\nAfter midwinter, one or two further winter phases (late winter and the March cold spell) may follow, sometimes bringing very low night-time temperatures. Only then does the longer period of sunshine finally bring rapid plant growth and rising temperatures.\n\nThe traditional winter phases (midwinter and late winter) can be confusing. If the turn of the year is mild, plants in many places begin to produce their first blossoms as early as January, during the so-called pre-spring. This is partly due to a warming climate. At the same time, the timing of the three spring phases varies greatly with the severity of the winter: pre-spring, for example, can begin at any time from January to March.",
+        "NONE": {
+          "short_text": "No midwinter cold spell this year",
+          "long_text": "The midwinter phase has not occurred this year. It is usually the coldest part of the year in terms of daytime temperatures. Its absence suggests a mild winter. However, one or two further winter phases (late winter and the March cold spell) may follow, sometimes bringing very low night-time temperatures. Only afterwards does the longer period of sunshine finally bring rising temperatures and rapid plant growth.\n\nMidwinter and late winter can be confusing. When the turn of the year is very mild, plants may begin to produce their first blossoms as early as January, during the so-called pre-spring, before the traditional winter phases have begun. This is partly due to a warming climate. The timing of the three spring phases also varies greatly with the severity of the winter: pre-spring, for example, can begin between January and March."
+        }
+      },
+      "spaetwinter": {
+        "link": "https://de.wikipedia.org/wiki/Sp%C3%A4twinter",
+        "short_text": "Late winter is approaching",
+        "long_text": "Late winter is the phase of winter that occurs in February. It is characterised above all by a combination of very low night-time temperatures and more frequent sunshine. This phase is now approaching.\n\nLate winter often coincides with Carnival, the old tradition in which people dress up and make a great deal of noise in an attempt to drive winter away and welcome summer.",
+        "NONE": {
+          "short_text": "No late-winter cold spell this year",
+          "long_text": "The traditional late-winter phase has not occurred this year. It is characterised above all by very low night-time temperatures combined with more frequent sunshine. In some years February is so mild that daytime temperatures feel more like the coming spring.\n\nWinter has not quite departed, however. Late winter is often followed by the March cold spell, with its characteristic frosty nights. Only afterwards does the longer period of sunshine finally bring rising temperatures and rapid plant growth."
+        }
+      },
+      "maerzwinter": {
+        "link": "https://de.wikipedia.org/wiki/M%C3%A4rzwinter",
+        "short_text": "March cold spell is approaching",
+        "long_text": "The March cold spell is a late outbreak of cold weather in Central Europe. It is particularly feared in fruit-growing regions, as it can seriously damage early blossoms, depending on its severity. It is now approaching.\n\nThe March cold spell is not really part of winter, but rather a wintry episode that brings frost back. Spring is, after all, the transition between winter and summer and therefore contains elements of both cold and warmth, even though we are chiefly looking forward to warmer weather."
+      },
+      "aprilkuehle": {
+        "link": "https://de.wikipedia.org/wiki/Wintereinbruch_in_Mitteleuropa_April_2016#Klimatologische_Einstufung",
+        "short_text": "April cool spell is approaching",
+        "long_text": "An April cool spell is a period of cooler weather following warmer days. It has now arrived.\n\nApril is known for its changeable weather. One reason is that the Sun reaches much the same height in April as in September, when temperatures can sometimes reach 30 °C. On the other hand, the seas are still cold in April and produce plenty of cold air. Depending on the direction of the airflow, the weather can therefore change very suddenly."
+      },
+      "eisheilige": {
+        "link": "https://de.wikipedia.org/wiki/Eisheilige",
+        "short_text": "Ice Saints cold spell is approaching",
+        "long_text": "The Ice Saints have traditionally been an important period in Central Europe, as they usually mark the last chance of a return of frost. This was particularly evident in the Middle Ages, when average temperatures were lower. Frost in May is rather rare today, but the Ice Saints cold spell still occurs. It is now approaching."
+      },
+      "schafskaelte": {
+        "link": "https://de.wikipedia.org/wiki/Schafsk%C3%A4lte",
+        "frueh": {
+          "short_text": "Early Sheep’s Cold is approaching",
+          "long_text": "In June, Central Europe often experiences a cold spell that particularly affects Germany. Cool, moist air flowing in from the north-west causes temperatures to fall by five to ten degrees Celsius. This is the so-called Sheep’s Cold (Schafskälte), which is now approaching.\n\nSheep’s Cold often consists of two cold spells, one in early June and another towards the end of the month. These are followed by the first period of high summer, which may be more or less pronounced depending on the course of the year."
+        },
+        "spaet": {
+          "short_text": "Late Sheep’s Cold is approaching",
+          "long_text": "In June, Central Europe often experiences a cold spell that particularly affects Germany. Cool, moist air flowing in from the north-west causes temperatures to fall by five to ten degrees Celsius. This is the so-called Sheep’s Cold (Schafskälte), which is now approaching.\n\nSheep’s Cold often consists of two cold spells, one in early June and another towards the end of the month. These are followed by the first period of high summer, which may be more or less pronounced depending on the course of the year."
+        },
+        "NONE": {
+          "short_text": "No Sheep’s Cold this year",
+          "long_text": "No clear Sheep’s Cold has occurred this year. June usually brings a cold spell before the first period of high summer begins in July. Such events do not occur every year."
+        }
+      },
+      "hundstage": {
+        "link": "https://de.wikipedia.org/wiki/Hundstage",
+        "short_text": "July temperature drop has arrived",
+        "long_text": "The July temperature drop has arrived.\n\nWhat is unusual is that the cooler weather generally does not last long. It is usually followed by the second period of high summer. This warm period can last well into August. Traditionally, this part of the year is often called the ‘dog days’, a name derived from the constellation Canis Major (the Great Dog), which used to rise at this time. (The midsummer appearance of Sirius has since shifted to a later part of the year, so the two events no longer coincide. Only the name remains.)",
+        "NONE": {
+          "short_text": "No July temperature drop this year",
+          "long_text": "There has been no July temperature drop this year. Normally, after a short period of cooler weather, it ushers in the second period of high summer. Such events do not occur every year."
+        }
+      },
+      "altweibersommer": {
+        "link": "https://de.wikipedia.org/wiki/Altweibersommer",
+        "short_text": "Return of autumn warmth",
+        "long_text": "This is remarkable because we are now in the period, from mid-September to late October, when people hope for an ‘Indian summer’ (Altweibersommer). It is a spell of settled, sunny weather that brings the year and the past summer to a pleasantly warm close.\n\nHowever, an Indian summer is difficult to predict. Like all weather singularities, it does not occur every year, and it is impossible to know in advance whether there will be only a few fine days or the hoped-for longer spell of stable, pleasant weather."
+      },
+      "weihnachtstauwetter": {
+        "link": "https://de.wikipedia.org/wiki/Weihnachtstauwetter",
+        "short_text": "Christmas thaw is approaching",
+        "long_text": "Christmas, the ancient festival of light, falls in the darkest part of the year. In Central Europe, however, this is not the coldest time. In two out of three years, moist, warm maritime air reaches us towards the end of the year and causes temperatures to rise noticeably. (The north sometimes escapes this change because the warm airflow does not always reach that far.)\n\nAfter this phase, winter returns with its quiet and clear strength."
+      }
+    },
+    "es": {},
+    "fr": {},
+    "ru": {},
+    "zh": {},
+    "pt-pt": {},
+    "it": {},
+    "tr": {},
+    "cs": {},
+    "hu": {}
+  }
+}
