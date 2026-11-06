@@ -10,7 +10,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
-- Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions 
+- Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions. See more info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
 
 ### Changed
 - Weather history now fetched data less frequently
