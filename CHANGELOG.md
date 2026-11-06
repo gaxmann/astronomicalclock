@@ -6,9 +6,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.91] - 2026-11-05 (Weather singularities)
+## [1.1.7.95] - 2026-11-06 (Weather singularities)
 
-### Changed
+### Added
 - Weather singularity mod support (currently active for Germany): e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.
 
 ### Changed
