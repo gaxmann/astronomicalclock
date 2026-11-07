@@ -117,7 +117,7 @@ Alternatively, a nested AND condition within OR is permitted:
 | `tmin.rel` | Minimum temperature minus reference temperature | °C |
 | `tmax.rel` | Maximum temperature minus reference temperature | °C |
 | `precip` | Precipitation amount on the event date | mm = l/m² |
-| `prob` | Probability of precipitation on the event date | % |
+| `prob` | Probability of precipitation on the event date | 0-100 % |
 
 `.abs` refers to the actual temperature, not the absolute value of a difference. Negative `.rel` values indicate a decrease. The reference temperature is calculated by the PWA's weather analysis.
 
