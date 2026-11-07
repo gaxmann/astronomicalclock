@@ -6,11 +6,17 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.124] - 2026-11-07 (Weather singularities)
+
+## [1.1.8.1] - 2026-11-08 (Phenology & mod testing)
+
+### Added
+- Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas)
+- Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions. See more info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
+
+## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
-- Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions. See more info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
 - Automatic weather analysis now also states rain and snow as text. **Weather analysis is NOT weather singularities. Analysis works completely independent and automatic with no set of rules.** 
 
 ### Changed
