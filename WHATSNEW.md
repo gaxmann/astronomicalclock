@@ -5,6 +5,9 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
+## [1.1.8] - 2026-11-08 (Local weather)
+- Weather singularity surveillance and display of 10 phenological seasons (both localised only for Germany, you can create your own local rule set) 
+
 ## [1.1.7] - 2026-10-29 (New projection)
 - New elliptical projection, better suited for equator. Performance optimisations ⚡
 <!--
