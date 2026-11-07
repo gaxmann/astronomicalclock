@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.111] - 2026-11-06 (Weather singularities)
+## [1.1.7.112] - 2026-11-06 (Weather singularities)
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
@@ -15,6 +15,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Changed
 - Weather history now fetched data less frequently
 - Moon image gets brighter near new Moon so that you can still see it
+
+### Fixed
+- Many small bug fixes
 
 ## [1.1.7.82] - 2026-11-04 (New light seasons)
 
