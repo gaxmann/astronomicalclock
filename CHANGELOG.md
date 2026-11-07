@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.115] - 2026-11-07 (Weather singularities)
+## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
