@@ -6,11 +6,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.7.112] - 2026-11-06 (Weather singularities)
+## [1.1.7.115] - 2026-11-07 (Weather singularities)
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
 - Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions. See more info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
+- Weather analysis now also stated rain and snow within text
 
 ### Changed
 - Weather history now fetched data less frequently
@@ -18,6 +19,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Fixed
 - Many small bug fixes
+- Openmet snowfall normalised with *10/7 for rain equivalent
 
 ## [1.1.7.82] - 2026-11-04 (New light seasons)
 
