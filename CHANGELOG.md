@@ -11,7 +11,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas)
-- Support for testing (singularity events) and for individual mods/events is added under page 2 settings, 4. functions. See more info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
+- Weather singularities: support for individual rules/mods added on page 2. More info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
 
 ## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
