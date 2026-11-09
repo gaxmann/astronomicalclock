@@ -9,7 +9,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Weather singularity detection and ten phenological seasons. *Currently available for Germany only ([create your own rule set](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities))*
 
 ## [1.1.7] - 2026-10-29 (New projection)
-- New elliptical projection, better suited for equator. Performance optimisations ⚡
+- New elliptical projection, better suited to equatorial latitudes. Performance optimisations ⚡
 <!--
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
@@ -68,4 +68,4 @@ For a permanent wall clock, one of the best options is to use a used Android tab
 
 ---
 
-_P.S. Since 1.0.2 Astronomical Clock is feature-complete with the original JPL APK app_
+_P.S. Since 1.0.1 Astronomical Clock is feature-complete with the original Android app, which uses JPL ephemerides_
