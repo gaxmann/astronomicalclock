@@ -53,9 +53,9 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ## Project history
 
-This web version is the latest addition to the project. For more information, take a look at the parent project, the high-precision JPL Android app: https://github.com/gaxmann/gordonssunclock
+This web version is the latest addition to the project. For more information, take a look at the parent project, the original Android app, which uses JPL ephemerides: https://github.com/gaxmann/gordonssunclock
 
-For a permanent wall clock, one of the best options is to use a used Android tablet together with a 3 metre USB cable and a timer that switches the charger on for about two hours in the morning and evening. I run this setup at home:
+For a permanent wall clock, one of the best options is to use a second-hand Android tablet together with a 3 metre USB cable and a timer that switches the charger on for about two hours in the morning and evening. I run this setup at home:
 
 ---
 
