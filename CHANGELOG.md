@@ -7,11 +7,14 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.1.8.15] - 2026-11-08 (Phenology & own rules)
+## [1.1.8.17] - 2026-11-09 (Phenology & own rules)
 
 ### Added
-- Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas)
-- Weather singularities: support for individual rules/mods added on page 2. More info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities)
+- Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas) #1.1.8.15
+- Weather singularities: support for individual rules/mods added on page 2. More info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities) #1.1.8.15
+
+### Changed
+- Moon shadow border is now less strong when Moon is <=25% illuminated 
 
 ## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
