@@ -54,9 +54,9 @@ The following languages are currently fully supported: *English (en), Deutsch (d
 
 ### Wiki & info
 
-Wiki pages: https://github.com/gaxmann/gordonssunclock/wiki  
+**Wiki pages:** https://github.com/gaxmann/gordonssunclock/wiki  
+Main repository (with wiki): https://github.com/gaxmann/gordonssunclock  
 Info overview & History: https://AstronomicalClock.eu/info/  
-Main Android repository: https://github.com/gaxmann/gordonssunclock  
 
 ---
 
