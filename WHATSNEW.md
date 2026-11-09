@@ -36,7 +36,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Original greyscale design
 
 ## [1.0.2] - 2026-07-11 (Bug fixes)
-- Compensates for incorrect below-horizon refraction, many bug fixes
+- Corrected below-horizon refraction, many bug fixes
 - Performance optimisations ⚡
 
 ## [1.0.1] - 2026-07-04 (Short-term weather)
@@ -55,7 +55,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 This web version is the latest addition to the project. For more information, take a look at the parent project, the original Android app, which uses JPL ephemerides: https://github.com/gaxmann/gordonssunclock
 
-For a permanent wall clock, one of the best options is to use a second-hand Android tablet together with a 3 metre USB cable and a timer that switches the charger on for about two hours in the morning and evening. I run this setup at home:
+For a permanent wall clock, a practical option is to use a second-hand Android tablet together with a 3 metre USB cable and a timer that switches the charger on for about two hours in the morning and evening. I run this setup at home:
 
 ---
 
