@@ -6,7 +6,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ---
 
 ## [1.1.8] - 2026-11-08 (German weather)
-- Weather singularity recognition (e.g. Schafskälte) and display of 10 phenological seasons (e.g. Vorfrühling) – both currently available for Germany only, but you can create your own local [singularity](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities) rule set 
+- [Weather singularity](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities) recognition (e.g. Schafskälte) and display of 10 phenological seasons (e.g. Vorfrühling). _Currently available for Germany only_
 
 ## [1.1.7] - 2026-10-29 (New projection)
 - New elliptical projection, better suited for equator. Performance optimisations ⚡
