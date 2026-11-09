@@ -14,7 +14,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Weather singularities: support for individual rules/mods added on page 2. More info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities) #1.1.8.15
 
 ### Changed
-- Moon shadow border is now less strong when Moon is <=25% illuminated 
+- Moon shadow border is now lighter when Moon is <=25% illuminated 
 
 ## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
@@ -24,7 +24,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - Weather history now fetched data less frequently
-- Moon image gets brighter near new Moon so that you can still see it
+- Moon image gets brighter near new Moon so that it still "shines"
 
 ### Fixed
 - Many small bug fixes
