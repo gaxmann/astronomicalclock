@@ -12,7 +12,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ### Added
 - Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas) #1.1.8.15
 - Weather singularities: support for individual rules/mods added on page 2. More info in [Wiki](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities) #1.1.8.15
-- Second layer of local phenology checks for area of 50, 100 and 150 km around the local position provided more precise data and concrete a starting date with progress display in percentage # 1.1.8.35
+- Second layer of local phenology checks for area of 50, 100 and 150 km around the local position provided more precise data and concrete a starting date with progress display in percentage #1.1.8.35
 
 ### Changed
 - Moon shadow border is now lighter when Moon is <=25% illuminated 
@@ -21,7 +21,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
-- Automatic weather analysis now also states rain and snow as text. **Weather analysis** is NOT weather singularities. Analysis works without rule sets
+- Automatic weather analysis now also states rain and snow as text. **Weather analysis** is NOT weather singularities. Analysis works without needing rule sets
 
 ### Changed
 - Weather history now fetched data less frequently
