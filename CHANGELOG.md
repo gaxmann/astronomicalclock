@@ -21,7 +21,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Added
 - Weather singularity surveillance with mod support. Currently only Germany has active rules: e.g. Schafskälte, Hochwinter, Spätwinter, Altweibersommer, etc.. People can send me mods via email or Github
-- Automatic weather analysis now also states rain and snow as text. **Weather analysis** is NOT weather singularities. Analysis works completely independent and automatic with no set of rules
+- Automatic weather analysis now also states rain and snow as text. **Weather analysis** is NOT weather singularities. Analysis works without rule sets
 
 ### Changed
 - Weather history now fetched data less frequently
