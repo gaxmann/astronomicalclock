@@ -9,7 +9,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ## [1.1.8.55] - 2026-11-11
 
 ### Changed
-- Simplifications in api handling
+- Centralisations in fetch handling
 
 ## [1.1.8.47] - 2026-11-10 (Phenology & own rules)
 
