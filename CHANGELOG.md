@@ -6,8 +6,12 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.8.55] - 2026-11-11
 
-## [1.1.8.47] - 2026-11-11 (Phenology & own rules)
+### Changed
+- Simplifications in api handling
+
+## [1.1.8.47] - 2026-11-10 (Phenology & own rules)
 
 ### Added
 - Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas) #1.1.8.15
