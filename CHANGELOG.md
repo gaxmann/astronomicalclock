@@ -7,7 +7,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 ---
 
 
-## [1.1.8.45] - 2026-11-11 (Phenology & own rules)
+## [1.1.8.47] - 2026-11-11 (Phenology & own rules)
 
 ### Added
 - Phenology: Display of the 10 phenological seasons with data from DWD (currently only for Germany, subdivided into seven areas) #1.1.8.15
@@ -15,7 +15,8 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Second layer of local phenology checks for area of 50, 100 and 150 km around the local position provided more precise data and concrete a starting date with progress display in percentage #1.1.8.35
 
 ### Changed
-- Moon shadow border is now lighter when Moon is <=25% illuminated 
+- Moon shadow border is now lighter when Moon is <=25% illuminated
+- Stars 10% bigger #1.1.8.47
 
 ## [1.1.7.118] - 2026-11-07 (Weather singularities)
 
