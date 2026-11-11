@@ -6,10 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.8.55] - 2026-11-11
+## [1.1.8.62] - 2026-11-11
 
 ### Changed
-- Centralisations in fetch handling
+- Centralisations in fetch handling #1.1.8.55
+- Light seasons 1+3 are now **`↑`** and **`↓`** instead of Wax and Wan #1.1.8.62
 
 ## [1.1.8.47] - 2026-11-10 (Phenology & own rules)
 
