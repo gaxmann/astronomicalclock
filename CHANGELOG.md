@@ -6,7 +6,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.8.62] - 2026-11-11
+## [1.1.8.67] - 2026-11-12
+
+### Added
+- Welcome popup now has a guided time travel option 
 
 ### Changed
 - Centralisations in fetch handling #1.1.8.55
