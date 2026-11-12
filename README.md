@@ -13,7 +13,7 @@ The app is free, requires no account, shows no ads, and is privacy-friendly. It'
 ---
 
 <p float="left">
-  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock2604.png" width="250" />
+  <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/sunclock_0.jpg" width="250" />
   <img src="https://github.com/gaxmann/gordonssunclock/raw/master/_gitdesign/tablet.jpg" width="250" />
 </p>
 
