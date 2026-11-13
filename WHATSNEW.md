@@ -7,6 +7,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ## [1.1.8] - 2026-11-08 (German weather)
 - Weather singularity detection and display of ten phenological seasons. *Currently available for Germany only ([create your own rule set](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities))*
+- Optional compass
 
 ## [1.1.7] - 2026-10-29 (New projection)
 - New elliptical projection, better suited to equatorial latitudes. Performance optimisations ⚡
