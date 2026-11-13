@@ -6,6 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.8.85] - 2026-11-13
+
+### Added
+- Optional compass display (line or dot)
+
 ## [1.1.8.67] - 2026-11-12
 
 ### Added
