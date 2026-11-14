@@ -16,7 +16,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Performance optimisations ⚡
 -->
 ## [1.1.5] - 2026-10-22 (Dynamic sky)
-- Dynamic sky and twilight colours, improved Sun and Moon effects. Performance optimisations ⚡
+- Dynamic sky and twilight colours 🔥, improved Sun and Moon effects
 - 7-day weather history, 4h weather on dial, favourite locations. Türkçe, Čeština, Magyar, 日本語, Polski, Bahasa Indonesia added
 <!--
 ## [1.1.5] - 2026-10-22 (Refined sky)
