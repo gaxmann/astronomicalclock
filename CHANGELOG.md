@@ -13,6 +13,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ### Changed
 - Texts updated
+- Phenology now has 60km instead of 50km radius. The begin of the seasons is now saved to prevent later changed because of range switches
 
 ## [1.1.8.67] - 2026-11-12
 
