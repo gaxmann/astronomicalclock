@@ -10,7 +10,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 - Optional compass dot
 
 ## [1.1.7] - 2026-10-29 (New projection)
-- New elliptical projection, better suited to equatorial latitudes. Performance optimisations ⚡
+- New elliptical projection, better suited to equatorial latitudes. Performance optimisations
 <!--
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
