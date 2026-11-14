@@ -5,7 +5,7 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 
 ---
 
-## [1.1.8] - 2026-11-08 (German weather)
+## [1.1.8] - 2026-11-08 (Compass dot)
 - Weather singularity detection and display of ten phenological seasons. *Currently available for Germany only ([create your own rule set](https://github.com/gaxmann/gordonssunclock/wiki/Weather-Singularities))*
 - Optional compass dot
 
@@ -15,14 +15,17 @@ Short summary of the latest changes. You'll find the [**detailed changelog**](./
 ## [1.1.6] - 2026-10-25 (Performance optimisations)
 - Performance optimisations ⚡
 -->
+## [1.1.5] - 2026-10-22 (Dynamic sky)
+- Dynamic sky and twilight colours, improved Sun and Moon effects. Performance optimisations ⚡
+- 7-day weather history, 4h weather on dial, favourite locations. Türkçe, Čeština, Magyar, 日本語, Polski, Bahasa Indonesia added
+<!--
 ## [1.1.5] - 2026-10-22 (Refined sky)
 - More detailed sky colours, better Moon (phase and glow), 日本語, Polski and Bahasa Indonesia added
 - 4h weather on dial, favourite locations. Many bug fixes
-
 ## [1.1.3] - 2026-08-22 (Dynamic sky)
 - Dynamic sunset and twilight sky colours 🔥, daytime Sun glow
 - 7-day weather history, Türkçe, Čeština, Magyar added
-
+-->
 ## [1.1.1] - 2026-08-07 (Long-term weather)
 - Concise text-based weather summary, expandable to 9-day outlook or 7-day history ([weather direct link](https://sky12.de/?pg=1)), العربية added
 
