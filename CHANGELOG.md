@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.8.111] - 2026-11-16
+## [1.1.8.117] - 2026-11-17
 
 ### Added
 - Optional compass display (bearing line or dot)
@@ -15,6 +15,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Texts updated
 - Phenology-r1 now has 60km instead of 50km radius (which prioritises more local results). The begin of the seasons is now saved to prevent later changed because of range switches
 - Compass line is now striped
+- Snow and heavy rain symbols have been standardised between long-term and short-term weather forecasts 
 
 ## [1.1.8.67] - 2026-11-12
 
