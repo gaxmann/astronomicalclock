@@ -6,7 +6,7 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.8.132] - 2026-11-20
+## [1.1.8.135] - 2026-11-20
 
 ### Added
 - Optional compass display (bearing line or dot)
@@ -18,6 +18,9 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 - Snow and heavy rain symbols have been standardised between long-term and short-term weather forecasts #1.1.8.117
 - Status log weather added, 48h weather stronger day lines, first line normal #1.1.8.122
 - Code simplified #1.1.8.132
+
+### Fixed
+- Weather analytics better detects already running weather changes
 
 ## [1.1.8.67] - 2026-11-12
 
