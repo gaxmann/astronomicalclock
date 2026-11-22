@@ -6,6 +6,11 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
+## [1.1.8.142] - 2026-11-22
+
+### Fixed
+- Automatic language selection now chooses English instead of German, when no local translation is available 
+
 ## [1.1.8.135] - 2026-11-20
 
 ### Added
