@@ -6,7 +6,10 @@ Detailed changelog of [Astronomical Clock](https://AstronomicalClock.eu/). You'l
 
 ---
 
-## [1.1.8.144] - 2026-11-22
+## [1.1.8.146] - 2026-11-23
+
+### Changed
+- Fresh marker for weather on dial moved to current temperature
 
 ### Fixed
 - Automatic language selection now chooses English instead of German, when no local translation is available 
